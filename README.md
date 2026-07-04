@@ -1,19 +1,19 @@
-# S.G. & Associates — Chartered Accountants Website
+# Anil Puneet and Associates — Chartered Accountants Website
 
-A modern, production-grade Next.js App Router web application built for **S.G. & Associates, Chartered Accountants** (Sole Proprietorship practice led by **CA Saatvik Gupta**, FCA, DISA).
+A modern, production-grade Next.js App Router web application built for **Anil Puneet and Associates, Chartered Accountants** (Sole Proprietorship practice led by **CA Puneet Gupta**, B.Com, CA).
 
 ---
 
 ## 🏛️ Firm Profile & ICAI Compliance Information
 
-- **Firm Name:** S.G. & Associates, Chartered Accountants
-- **Sole Proprietor / Principal:** CA Saatvik Gupta
-- **Qualifications:** B.Com, FCA, DISA (ICAI)
-- **ICAI Membership No:** 123456
-- **Firm Registration No (FRN):** 100001W
-- **Established Year:** 2012
-- **Head Office:** Suite 401, Business Tower, MG Road, Ahmedabad, Gujarat 380009
-- **Contact:** +91 79 2658 9000 | contact@sgassociates.in
+- **Firm Name:** Anil Puneet and Associates, Chartered Accountants
+- **Sole Proprietor / Principal:** CA Puneet Gupta
+- **Qualifications:** B.Com, CA
+- **ICAI Membership No:** 059435
+- **Firm Registration No (FRN):** 016890N
+- **Established Year:** 2000
+- **Head Office:** SCF 57, Level 2, Sector 8, Panchkula, Haryana
+- **Contact:** +91 9815763749 | gupta.puneetca@gmail.com
 
 > [!IMPORTANT]
 > **Proprietorship Compliance Notice**: In strict adherence to ICAI website guidelines and the Chartered Accountants Act, 1949, all references across the website use "Sole Proprietor / Principal" — never "Partner".
@@ -34,8 +34,8 @@ A modern, production-grade Next.js App Router web application built for **S.G. &
 
 ### Core Pages
 - `/` — **Home Page**: Hero, TrustIndicators, WhyChooseUs, PracticeAreas, IndustryExpertise, OurProcess, PrincipalProfile, KnowledgePreview, FAQSection, CTABanner.
-- `/about` — **About Firm**: Practice overview, sole proprietorship background, firm mission, history timeline (2012-Present), principal profile.
-- `/team` — **Team & Principal**: Featured Proprietor CA spotlight (FCA, DISA, Mem #123456) with supervised Article Assistants and staff grid.
+- `/about` — **About Firm**: Practice overview, sole proprietorship background, firm mission, history timeline (2000-Present), principal profile.
+- `/team` — **Team & Principal**: Featured Proprietor CA spotlight (Mem #059435) with supervised Article Assistants and staff grid.
 - `/services` — **Services Directory**: Category filterable practice grid (Direct Tax, Audit & Assurance, GST, Corporate Law, Valuation).
 - `/services/[slug]` — **Dynamic Service Details**: Comprehensive service scope, step-by-step process, deliverables, and FAQs.
 - `/industries` — **Industries Directory**: Specialization across Startups, Manufacturing, Healthcare, Real Estate, Export-Import, and Retail.
