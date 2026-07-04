@@ -17,6 +17,13 @@ export default function ContactPage() {
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     setSubmitted(true);
+
+    // Open email client with form contents addressed to gupta.puneetca@gmail.com
+    const subject = encodeURIComponent(formData.subject || `Service Inquiry: ${formData.service}`);
+    const body = encodeURIComponent(
+      `Name / Entity: ${formData.name}\nEmail: ${formData.email}\nPhone: ${formData.phone}\nService Required: ${formData.service}\n\nMessage:\n${formData.message}`
+    );
+    window.open(`mailto:gupta.puneetca@gmail.com?subject=${subject}&body=${body}`, '_blank');
   };
 
   return (
@@ -211,8 +218,8 @@ export default function ContactPage() {
                 </span>
                 <div className="w-full h-48 rounded-xl bg-slate-800 border border-slate-700 flex flex-col items-center justify-center p-4 text-center space-y-2">
                   <div className="text-2xl">📍</div>
-                  <div className="text-xs font-bold text-white">Business Tower, MG Road, Panchkula</div>
-                  <div className="text-[11px] text-slate-400">Gujarat, 380009</div>
+                  <div className="text-xs font-bold text-white">SCF 57, Level 2, Sector 8</div>
+                  <div className="text-[11px] text-slate-400">Panchkula, Haryana 134109</div>
                 </div>
               </div>
             </div>
