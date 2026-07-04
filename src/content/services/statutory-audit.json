@@ -1,0 +1,77 @@
+{
+  "id": "statutory-audit",
+  "slug": "statutory-audit",
+  "title": "Statutory Financial Audit",
+  "shortDescription": "Independent statutory audit services conducted under the Companies Act, 2013 and Standards on Auditing (SAs) prescribed by ICAI.",
+  "fullDescription": "Statutory auditing is a core regulatory requirement designed to ensure that financial statements present a true and fair view of an entity's financial position and performance. S.G. & Associates conducts statutory financial audits for private limited companies, unlisted public companies, limited liability partnerships, and statutory bodies. Our audit procedures follow the Standards on Auditing (SAs) issued by ICAI, CARO 2020 reporting guidelines, and the regulatory requirements of the Companies Act, 2013.",
+  "scopeOfWork": [
+    "Examination of accounting books, financial records, and internal control frameworks",
+    "Verification of compliance with Accounting Standards (AS) and Indian Accounting Standards (Ind AS)",
+    "CARO 2020 (Companies Auditor's Report Order) reporting for eligible corporate entities",
+    "Testing of Internal Financial Controls over Financial Reporting (IFCoFR)",
+    "Verification of fixed asset registers, physical stock verification, and inventory valuation",
+    "Confirmation procedures for bank balances, trade receivables, and payables",
+    "Assessment of going concern assumptions, contingent liabilities, and post-balance sheet events",
+    "Formulating Independent Auditor's Report with clean, qualified, or modified opinions"
+  ],
+  "process": [
+    {
+      "stepNumber": 1,
+      "title": "Audit Planning & Risk Assessment",
+      "description": "Understanding client entity background, internal control evaluation, and determining materiality thresholds."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Fieldwork & Substantive Testing",
+      "description": "Executing audit procedures, sample testing, analytical procedures, and gathering audit evidence."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Discussion & Query Resolution",
+      "description": "Issuing audit queries to management and reviewing management representation letters."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Audit Report Issuance",
+      "description": "Drafting and signing the Independent Auditor's Report along with CARO 2020 annexures."
+    }
+  ],
+  "deliverables": [
+    {
+      "title": "Independent Auditor's Report",
+      "description": "Formal audit opinion rendered in accordance with ICAI Standards on Auditing."
+    },
+    {
+      "title": "Audited Financial Statements",
+      "description": "Audited Balance Sheet, Statement of Profit and Loss, Cash Flow Statement, and Notes to Accounts."
+    },
+    {
+      "title": "CARO 2020 Annexure Report",
+      "description": "Clause-by-clause evaluation of fixed assets, working capital, loans, default, and compliance statutory requirements."
+    },
+    {
+      "title": "Management Letter / Internal Control Report",
+      "description": "Confidential advisory letter pointing out internal control deficiencies and recommendations."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which entities are required to undergo statutory audit?",
+      "answer": "All companies registered under the Companies Act, 2013 (Private Limited, Public Limited, One Person Company) must undergo statutory audit regardless of turnover. LLPs must undergo statutory audit if turnover exceeds ₹40 Lakhs or capital contribution exceeds ₹25 Lakhs."
+    },
+    {
+      "question": "What is CARO 2020 and when does it apply?",
+      "answer": "CARO 2020 is a reporting order issued by MCA requiring auditors to report on 21 specific clauses including inventory physical verification, loans to related parties, undisclosed income, and financial ratios. It applies to all private and public limited companies except specified small and banking/insurance companies."
+    },
+    {
+      "question": "How does S.G. & Associates maintain independence during audits?",
+      "answer": "Our firm maintains independence in accordance with ICAI's Code of Ethics. We do not provide prohibited non-audit services to our statutory audit clients and maintain strict independence safeguards."
+    }
+  ],
+  "keyHighlights": [
+    "Strict adherence to ICAI Standards on Auditing (SAs 200 to 720)",
+    "Comprehensive CARO 2020 and IFCoFR evaluation",
+    "Independent, objective, and transparent reporting",
+    "Supervised directly by Principal CA Saatvik Gupta"
+  ]
+}

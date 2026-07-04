@@ -1,0 +1,77 @@
+{
+  "id": "nri-taxation",
+  "slug": "nri-taxation",
+  "title": "Non-Resident Indian (NRI) Taxation & Advisory",
+  "shortDescription": "Cross-border tax planning, DTAA relief, Form 15CA/15CB certification, capital gains on Indian assets, and repatriation assistance.",
+  "fullDescription": "Non-Resident Indians (NRIs) and foreign entities facing tax obligations in India navigate a complex intersection of the Income Tax Act, Double Taxation Avoidance Agreements (DTAA), and FEMA regulations. S.G. & Associates provides comprehensive NRI tax advisory and compliance services. We assist non-residents with determining statutory residential status, claiming DTAA tax credits, issuing Form 15CA/15CB certificates for foreign remittances, and managing Indian income tax filings.",
+  "scopeOfWork": [
+    "Residential status determination under Section 6 of the Income Tax Act and Deemed Residency rules",
+    "Form 15CA & Form 15CB preparation and CA certification for foreign outward remittances",
+    "Capital gains tax planning and computation on sale of Indian immovable property, shares, and mutual funds",
+    "Lower/NIL Tax Deduction Certificate applications under Section 195/197 for property sales",
+    "Double Taxation Avoidance Agreement (DTAA) relief claims, Tax Residency Certificate (TRC) analysis, and Form 10F filings",
+    "Repatriation of funds from NRO to NRE / overseas bank accounts under RBI's USD 1 Million Scheme",
+    "Income Tax Return filing for NRIs receiving taxable income, house property rent, or capital gains in India",
+    "Tax advisory on returning NRIs (RNOR status) and global income disclosure rules"
+  ],
+  "process": [
+    {
+      "stepNumber": 1,
+      "title": "Residential Status & DTAA Analysis",
+      "description": "Analyzing physical presence physical day counts, visa status, overseas tax residency, and applicable DTAA provisions."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Tax Liability & Withholding Computation",
+      "description": "Calculating Indian tax liability, applicable TDS under Section 195, capital gains indexation, or DTAA concessional rates."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Form 15CA/15CB Issuance & Filing",
+      "description": "Issuing CA Certificate (Form 15CB) and completing Part A/B/C/D of Form 15CA on the tax portal."
+    },
+    {
+      "stepNumber": 4,
+      "title": "ITR Filing & Bank Repatriation Support",
+      "description": "Submitting NRI annual income tax returns and liaising with authorized dealer (AD) banks for transfer."
+    }
+  ],
+  "deliverables": [
+    {
+      "title": "Form 15CB CA Certificate & Form 15CA Receipts",
+      "description": "Statutory certificates required by AD Banks for processing outward foreign remittances."
+    },
+    {
+      "title": "NRI Income Tax Return (ITR-2) Filing Docket",
+      "description": "Filed annual return reporting Indian source income, capital gains, and DTAA relief claimed."
+    },
+    {
+      "title": "Section 197 Lower TDS Certificate",
+      "description": "Official order issued by Assessing Officer allowing lower TDS deduction on property sales by NRIs."
+    },
+    {
+      "title": "DTAA Tax Position Memorandum",
+      "description": "Technical memorandum analyzing Tax Residency Certificate (TRC), Form 10F, and foreign tax credit (FTC)."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What rate of TDS applies when buying property from an NRI seller?",
+      "answer": "Under Section 195 of the Income Tax Act, buyers purchasing immovable property from an NRI must deduct TDS at the rate of 20% (plus applicable surcharge and cess) on total capital gains or gross sale consideration unless a Lower TDS Certificate under Section 197 is obtained."
+    },
+    {
+      "question": "When is Form 15CB required for outward foreign remittance?",
+      "answer": "Form 15CB (a certificate by a practicing Chartered Accountant) is required for foreign remittances chargeable to tax in India where the payment exceeds statutory thresholds or where DTAA benefits are being claimed."
+    },
+    {
+      "question": "What is RNOR status and how does it benefit returning NRIs?",
+      "answer": "Resident but Not Ordinarily Resident (RNOR) status allows returning NRIs to maintain tax-exempt status in India for foreign-sourced income for up to 1 to 3 financial years after moving back to India."
+    }
+  ],
+  "keyHighlights": [
+    "Specialized expertise in cross-border tax treaties (DTAA) and FEMA remittance rules",
+    "Fast-track issuance of Form 15CA/15CB certificates for bank transfers",
+    "Proven experience in obtaining Section 197 Lower TDS certificates for NRI property sales",
+    "Complete compliance support for returning NRIs (RNOR planning)"
+  ]
+}

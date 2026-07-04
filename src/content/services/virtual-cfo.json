@@ -1,0 +1,77 @@
+{
+  "id": "virtual-cfo",
+  "slug": "virtual-cfo",
+  "title": "Virtual CFO & Strategic Financial Management",
+  "shortDescription": "Part-time executive financial leadership, cash flow management, budgeting, MIS reporting, working capital optimization, and governance.",
+  "fullDescription": "Growing enterprises often require high-level financial oversight without the overhead of a full-time Chief Financial Officer. S.G. & Associates delivers Virtual CFO services that provide structured financial management, strategic forecasting, corporate governance, and operational decision support. Under the guidance of Principal CA Saatvik Gupta, our firm acts as an extended finance office for mid-market businesses and emerging companies.",
+  "scopeOfWork": [
+    "Design and implementation of monthly Management Information Systems (MIS) dashboards",
+    "Annual budgeting, rolling cash-flow forecasting, and variance analysis",
+    "Working capital management: Inventory turn optimization, AR aging review, and AP control",
+    "Banking relationships, credit line negotiation, working capital loan structuring, and CMA preparation",
+    "Capital expenditure (CapEx) evaluation, internal rate of return (IRR), and NPV modeling",
+    "Internal financial process automation and ERP chart of accounts standardization",
+    "Tax strategy alignment and comprehensive statutory compliance monitoring calendar",
+    "Board presentation preparation and active participation in strategic management reviews"
+  ],
+  "process": [
+    {
+      "stepNumber": 1,
+      "title": "Financial Health Diagnostic",
+      "description": "Conducting a detailed audit of financial operations, accounting quality, reporting speeds, and cash workflows."
+    },
+    {
+      "stepNumber": 2,
+      "title": "MIS Framework & Budget Design",
+      "description": "Building custom financial models, key performance indicator (KPI) trackers, and department budgets."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Monthly Execution & Monitoring",
+      "description": "Running monthly financial close routines, variance reporting, and working capital optimization."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Strategic Leadership & Board Support",
+      "description": "Participating in executive strategy meetings, bank discussions, and growth planning."
+    }
+  ],
+  "deliverables": [
+    {
+      "title": "Monthly Executive MIS Report Package",
+      "description": "Comprehensive report featuring P&L, Balance Sheet, Cash Flow, KPI dashboards, and variance analysis."
+    },
+    {
+      "title": "Annual Operating Budget & 13-Week Cash Flow Forecast",
+      "description": "Dynamic financial model tracking liquidity, debt service capabilities, and revenue targets."
+    },
+    {
+      "title": "Bank CMA Data & Debt Restructuring File",
+      "description": "Credit monitoring arrangement format required by commercial banks for credit line renewals."
+    },
+    {
+      "title": "Compliance Monitoring & Risk Matrix Dashboard",
+      "description": "Quarterly overview tracking statutory compliance status across Direct Tax, Indirect Tax, and Companies Act."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What size of business benefits most from Virtual CFO services?",
+      "answer": "Businesses generating annual revenue between ₹5 Crores and ₹100 Crores that require strategic financial guidance, institutional banking support, and rigorous internal controls—but do not need a full-time executive CFO—benefit significantly."
+    },
+    {
+      "question": "How does the Virtual CFO engagement operate on a day-to-day basis?",
+      "answer": "Our firm assigns a dedicated team led by Principal CA Saatvik Gupta. We establish weekly operational check-ins, monthly formal financial reviews, and are accessible for strategic advisory on continuous business decisions."
+    },
+    {
+      "question": "Does Virtual CFO include routine bookkeeping and data entry?",
+      "answer": "While routine bookkeeping is handled by the client's internal accounts team or our accounting support arm, Virtual CFO focuses on oversight, review, analytical reporting, internal controls, and executive strategy."
+    }
+  ],
+  "keyHighlights": [
+    "Executive-level guidance led by FCA with 14+ years of professional experience",
+    "Customized monthly MIS dashboards designed for management clarity",
+    "Structured working capital and cash-flow management frameworks",
+    "Independent institutional perspective for board and banking discussions"
+  ]
+}

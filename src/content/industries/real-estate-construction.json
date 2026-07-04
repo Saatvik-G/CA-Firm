@@ -1,0 +1,31 @@
+{
+  "id": "real-estate-construction",
+  "slug": "real-estate-construction",
+  "title": "Real Estate & Construction Infrastructure",
+  "shortDescription": "RERA financial compliance, project percentage completion method (POCM) revenue recognition, GST joint development agreement (JDA) tax, and audit.",
+  "fullDescription": "Real estate development and construction infrastructure projects involve long-term project lifecycles, complex Joint Development Agreements (JDA), RERA regulatory reporting, and intricate GST implications on land, TDR, and construction services. S.G. & Associates provides specialized accounting, audit certification, and tax advisory services for real estate developers, contractors, and infrastructure firms.",
+  "keyChallenges": [
+    "Revenue recognition under Percentage of Completion Method (POCM) and Ind AS 115",
+    "RERA quarterly compliance certificates (Form 3) for project escrow bank withdrawals",
+    "GST tax implications on Joint Development Agreements (JDA), Development Rights (TDR), and floor space index (FSI)",
+    "Capital gains taxation, Section 45(5A) JDA tax timing, and land transaction tax deductions (Section 194-IA)"
+  ],
+  "tailoredSolutions": [
+    "Independent CA certification (RERA Form 3) verifying project cost incurred and collected funds",
+    "Joint Development Agreement GST liability structure planning and input credit optimization",
+    "Project-wise cost center accounting, budget variance tracking, and subcontractor audit procedures",
+    "Section 194-IA and Section 194M withholding tax compliance monitoring"
+  ],
+  "relevantServices": [
+    "statutory-audit",
+    "income-tax",
+    "gst",
+    "internal-audit"
+  ],
+  "caseStudy": {
+    "title": "RERA Form 3 Certification & JDA GST Advisory for Residential Project",
+    "context": "A real estate developer executing a 150-unit residential project required quarterly RERA cost certifications and tax clarity on a newly signed Joint Development Agreement with landowners.",
+    "approach": "Our firm reviewed project cost records, established separate RERA escrow account audit logs, and structured the GST payment schedule for landowner share allocation.",
+    "outcome": "Maintained uninterrupted RERA portal compliance and optimized input tax credit utilization against outward construction GST liabilities."
+  }
+}

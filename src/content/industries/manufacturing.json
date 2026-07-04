@@ -1,0 +1,31 @@
+{
+  "id": "manufacturing",
+  "slug": "manufacturing",
+  "title": "Manufacturing & Heavy Engineering",
+  "shortDescription": "Tax, audit, inventory valuation, and cost management compliance for plant operations, engineering units, and industrial manufacturers.",
+  "fullDescription": "Manufacturing operations face intricate statutory requirements including inventory accounting under AS-2 / Ind AS 2, GST job-work procedures, Section 43B(h) MSME creditor timelines, factory depreciation schedules, and multi-state supply chain tax compliance. S.G. & Associates provides comprehensive audit, tax, and advisory support tailored for manufacturing enterprises.",
+  "keyChallenges": [
+    "Complex raw material, WIP, and finished goods inventory valuation and scrap accounting",
+    "Compliance with GST job-work rules (Form GST ITC-04) and input credit matching across inputs and capital goods",
+    "Section 43B(h) compliance tracking for extensive raw material supplier networks",
+    "Managing high working capital requirement cycles and bank credit line monitoring"
+  ],
+  "tailoredSolutions": [
+    "Implementation of perpetual inventory audit procedures and cost-ledger reconciliation frameworks",
+    "Structured GST job-work movement tracking and capital goods ITC claim verification",
+    "Automated MSME vendor payment aging trackers to ensure 45-day statutory compliance",
+    "Bank CMA data preparation, working capital renewal support, and ratio analysis reporting"
+  ],
+  "relevantServices": [
+    "statutory-audit",
+    "internal-audit",
+    "gst",
+    "msme-advisory"
+  ],
+  "caseStudy": {
+    "title": "Inventory Audit & Working Capital Optimization for Engineering Component Manufacturer",
+    "context": "A Gujarat-based industrial components manufacturer operating three production units required structured inventory audit procedures and GST ITC reconciliation across multi-location raw material purchases.",
+    "approach": "Our team conducted physical inventory verification, established standard bill-of-materials (BOM) cost tracking, and performed comprehensive GSTR-2B reconciliations across supplier ledgers.",
+    "outcome": "Identified ₹18 Lakhs in unclaimed eligible input tax credits, eliminated inventory ledger discrepancies, and structured an upgraded CMA report for enhanced bank credit facilities."
+  }
+}

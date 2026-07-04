@@ -1,0 +1,31 @@
+{
+  "id": "retail-e-commerce",
+  "slug": "retail-e-commerce",
+  "title": "Retail & E-Commerce",
+  "shortDescription": "Multi-channel retail accounting, marketplace TCS/TDS compliance (Section 194-O), e-invoicing, and high-volume inventory reconciliation.",
+  "fullDescription": "Retail networks and e-commerce platforms handle immense transactional volumes across online marketplaces (Amazon, Flipkart, Shopify) and physical retail chains. S.G. & Associates provides multi-channel e-commerce tax compliance, marketplace TCS/TDS reconciliations, high-volume inventory audit, and automated GST e-invoicing solutions.",
+  "keyChallenges": [
+    "Reconciling marketplace settlement reports against actual bank deposits and sales ledgers",
+    "Section 194-O TDS deducted by e-commerce operators vs. Form 26AS reflection",
+    "GST Section 52 Tax Collected at Source (TCS) reconciliation across multi-state registrations",
+    "Managing inventory shrinkage, return order accounting, and multi-warehouse stock audit"
+  ],
+  "tailoredSolutions": [
+    "Automated data reconciliation scripts comparing marketplace sales, returns, and TCS reports",
+    "Multi-state GST registration setup and principal place of business (APOB/PPOB) compliance",
+    "Real-time e-invoicing API integration for high-volume B2B e-commerce orders",
+    "Retail point-of-sale (POS) integration with core financial ledgers for automated audit trails"
+  ],
+  "relevantServices": [
+    "gst",
+    "income-tax",
+    "internal-audit",
+    "virtual-cfo"
+  ],
+  "caseStudy": {
+    "title": "E-Commerce Marketplace TCS/TDS Reconciliation for Multi-Brand Retailer",
+    "context": "An online consumer goods brand selling across 4 marketplaces faced significant discrepancies between sales registers, marketplace payout reports, and Section 194-O TDS credits.",
+    "approach": "Our firm deployed structured monthly reconciliation templates matching channel sales, return credit notes, marketplace commissions, and Form 26AS TDS entries.",
+    "outcome": "Recovered ₹12 Lakhs in unmatched TCS/TDS credits and eliminated monthly accounting delays."
+  }
+}

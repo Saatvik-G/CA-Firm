@@ -1,0 +1,83 @@
+[
+  {
+    "id": "ca-saatvik-gupta",
+    "name": "CA Saatvik Gupta",
+    "designation": "Proprietor & Principal CA",
+    "role": "Firm Principal & Practice Lead",
+    "qualification": "B.Com, FCA, DISA (ICAI)",
+    "membershipNo": "123456",
+    "experience": "14+ Years",
+    "bio": "CA Saatvik Gupta is the sole Proprietor and Principal CA of S.G. & Associates. Fellow Member of the Institute of Chartered Accountants of India (FCA) with a Information Systems Audit (DISA) qualification, he leads all statutory audit, tax litigation, GST advisory, and corporate structuring engagements.",
+    "isPrincipal": true,
+    "expertise": [
+      "Corporate & Direct Tax Litigation",
+      "Statutory & Internal Audits",
+      "GST Advisory & Annual Returns",
+      "Business Valuation & Financial Structuring"
+    ],
+    "email": "saatvik@sgassociates.in",
+    "linkedin": "https://www.linkedin.com/in/ca-saatvik-gupta"
+  },
+  {
+    "id": "neha-sharma",
+    "name": "Neha Sharma",
+    "designation": "Senior Accounts Executive",
+    "role": "Leads client bookkeeping, monthly GST reconciliation, and accounting supervision under the guidance of the Principal CA.",
+    "qualification": "M.Com, Inter CA",
+    "experience": "5+ Years",
+    "bio": "Neha oversees day-to-day corporate ledger maintenance, monthly GST reconciliation, and TDS compliance workflows under the supervision of Principal CA Saatvik Gupta.",
+    "isPrincipal": false,
+    "expertise": [
+      "Corporate Bookkeeping & Ledger Audit",
+      "GST Reconciliation (GSTR-2B)",
+      "TDS Computation & Form 26Q Filing"
+    ],
+    "email": "neha@sgassociates.in"
+  },
+  {
+    "id": "rohit-patel",
+    "name": "Rohit Patel",
+    "designation": "Semi-Qualified CA",
+    "role": "Assists the Principal CA in statutory audit execution, financial statement compilation, and tax audit workpapers.",
+    "qualification": "B.Com, CA Finalist",
+    "experience": "4+ Years",
+    "bio": "Rohit specializes in fieldwork execution for statutory audits, preparation of CARO 2020 annexures, and drafting Income Tax audit files under supervision.",
+    "isPrincipal": false,
+    "expertise": [
+      "Statutory Audit Fieldwork",
+      "CARO 2020 Compliance",
+      "Tax Audit (Form 3CD) Drafting"
+    ],
+    "email": "rohit@sgassociates.in"
+  },
+  {
+    "id": "pooja-mehta",
+    "name": "Pooja Mehta",
+    "designation": "Article Assistant (CA Final)",
+    "role": "Performs GST portal verification, e-way bill reviews, and MCA compliance support supervised by the Principal CA.",
+    "qualification": "B.Com, CA Intermediate Cleared",
+    "experience": "2+ Years (Articleship)",
+    "bio": "Pooja handles monthly GST return drafts, MCA e-filings, and client data gathering for annual audit assignments under direct supervisorial oversight.",
+    "isPrincipal": false,
+    "expertise": [
+      "GST Return Filing Assistance",
+      "MCA SPICe+ & Annual Filings",
+      "TDS Verification & Challan Reconciliation"
+    ]
+  },
+  {
+    "id": "aarav-shah",
+    "name": "Aarav Shah",
+    "designation": "Article Assistant (CA Final)",
+    "role": "Supports direct tax compliance preparation, Section 43B(h) MSME verification, and audit working paper assembly.",
+    "qualification": "B.Com, CA Intermediate Cleared",
+    "experience": "1.5 Years (Articleship)",
+    "bio": "Aarav assists in assembling Income Tax e-filing data, performing MSME vendor payment schedule checks, and auditing operational ledgers under principal supervision.",
+    "isPrincipal": false,
+    "expertise": [
+      "Income Tax Computation Drafting",
+      "MSME 43B(h) Creditor Schedule Checks",
+      "Audit Documentation & Voucher Verification"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "id": "internal-audit",
+  "slug": "internal-audit",
+  "title": "Internal Audit & Risk Advisory",
+  "shortDescription": "Risk-based internal audit, operational reviews, process optimization, and evaluation of internal financial controls for businesses.",
+  "fullDescription": "Internal audit serves as an essential tool for management to evaluate the operational effectiveness of governance, risk management, and internal control systems. S.G. & Associates delivers risk-based internal audit services that go beyond routine transaction checking. We assess process vulnerabilities, standard operating procedure (SOP) compliance, revenue leakage risks, and asset safeguarding measures to provide actionable recommendations for management.",
+  "scopeOfWork": [
+    "Design and execution of Risk-Based Internal Audit (RBIA) charters",
+    "Evaluation of Internal Financial Controls (IFC) and operating effectiveness",
+    "Process walkthroughs and SOP compliance audits across sales, procurement, inventory, and HR",
+    "Revenue leakage analysis, margin integrity verification, and cost audit support",
+    "Inventory audit, perpetual stock verification, and scrap control management",
+    "Procure-to-pay (P2P) and Order-to-Cash (O2C) cycle reviews",
+    "Delegation of Authority (DoA) matrix verification and segregation of duties (SoD) audit",
+    "Quarterly internal audit reporting to Audit Committees and Board of Directors"
+  ],
+  "process": [
+    {
+      "stepNumber": 1,
+      "title": "Process Mapping & Risk Matrix Creation",
+      "description": "Identifying high-risk operational areas, creating process flowcharts, and risk-control matrices (RCM)."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Field Testing & Transaction Audit",
+      "description": "Testing sample transactions against internal policies, authorization limits, and statutory rules."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Observation Discussion",
+      "description": "Reviewing preliminary findings with process owners to confirm factual accuracy and operational context."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Final Reporting & Action Plan",
+      "description": "Issuing structured audit reports with severity ratings, root cause analysis, and corrective recommendations."
+    }
+  ],
+  "deliverables": [
+    {
+      "title": "Risk-Based Internal Audit Report",
+      "description": "Detailed report detailing key audit observations, risk ratings (High/Medium/Low), and management action plans."
+    },
+    {
+      "title": "Risk-Control Matrix (RCM)",
+      "description": "Comprehensive matrix identifying operational risks, key controls, testing frequency, and control ownership."
+    },
+    {
+      "title": "Executive Summary for Board / Audit Committee",
+      "description": "High-level summary highlighting systemic vulnerabilities and status of previous audit findings."
+    },
+    {
+      "title": "SOP Gap Analysis Document",
+      "description": "Evaluation of existing standard operating procedures against industry best practices and control standards."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Is internal audit mandatory for private limited companies?",
+      "answer": "Under Section 138 of the Companies Act, 2013, internal audit is mandatory for private companies if turnover is ₹200 Crores or more, or outstanding loans/borrowings from banks/FIs exceed ₹100 Crores at any point during the preceding financial year."
+    },
+    {
+      "question": "How does internal audit differ from statutory audit?",
+      "answer": "Statutory audit focuses on evaluating whether financial statements represent a true and fair view for external stakeholders. Internal audit is an ongoing managerial tool focused on process efficiency, fraud risk prevention, compliance, and internal control strength."
+    },
+    {
+      "question": "Can S.G. & Associates act as internal auditor and statutory auditor for the same company?",
+      "answer": "No. Under Section 144 of the Companies Act, 2013, a statutory auditor is prohibited from providing internal audit services to the same client entity to maintain auditor independence."
+    }
+  ],
+  "keyHighlights": [
+    "Risk-focused auditing aligned with ICAI Standards on Internal Audit (SIAs)",
+    "Customized Risk-Control Matrices tailored to specific industry verticals",
+    "Focus on actionable recommendations rather than mere error finding",
+    "Independent reporting to Audit Committees and Board Management"
+  ]
+}

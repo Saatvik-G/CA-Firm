@@ -1,0 +1,87 @@
+---
+title: "GST E-Invoicing Mandatory Compliance Guide for Businesses under Rule 48(4)"
+date: "2024-12-02"
+author: "CA Saatvik Gupta"
+readTime: "8 min read"
+category: "Indirect Tax"
+excerpt: "A technical operational guide on mandatory e-invoicing provisions under Rule 48(4) of the CGST Rules, API integration workflow, and IRN verification protocols."
+tags: ["GST", "E-Invoicing", "Rule 48(4)", "Compliance", "Indirect Tax"]
+---
+
+## Introduction
+
+Under the Goods and Services Tax (GST) law, Electronic Invoicing (E-invoicing) has been progressively expanded by the Central Board of Indirect Taxes and Customs (CBIC). Governed by **Rule 48(4) of the Central Goods and Services Tax Rules, 2017**, e-invoicing requires notified taxpayers to upload B2B transaction data to the Invoice Registration Portal (IRP) and obtain a unique **Invoice Reference Number (IRN)** and **Quick Response (QR) Code**.
+
+This technical guide outlines the statutory applicability, workflow mechanics, ITC implications, and common audit non-compliances.
+
+---
+
+## 1. Statutory Thresholds & Applicability
+
+The requirement to generate E-invoices applies to registered taxpayers whose aggregate annual turnover in **any** preceding financial year from FY 2017-18 onwards exceeds the prescribed threshold:
+
+- **Current Threshold**: Taxpayers with turnover exceeding **₹5 Crores** in any financial year from 2017-18.
+- **Transactions Covered**: B2B Supplies, Exports (with/without tax), Deemed Exports, and Supplies to SEZ units.
+- **Transactions Exempted**: B2C transactions, Exempted/Nil-rated supplies, and non-GST goods.
+
+> [!IMPORTANT]
+> **Exempted Entities regardless of Turnover**: Insurance companies, Banking companies, NBFCs, Goods Transport Agencies (GTA), Passenger transport services, and Multiplex cinema admissions are currently exempt under Notification No. 13/2020-Central Tax.
+
+---
+
+## 2. Technical E-Invoicing Workflow
+
+```
+[Seller ERP / Accounting Software]
+               │
+               │ Generates JSON Payload (Schema INV-01)
+               ▼
+   [Invoice Registration Portal (IRP)]
+               │
+               ├─ 1. Validates JSON Schema & Tax Calculations
+               ├─ 2. Checks duplicate invoice numbers
+               ├─ 3. Generates 64-character hash (IRN)
+               └─ 4. Digitally signs payload & creates QR Code
+               │
+               ├──> Transmits to GSTN (Auto-populates GSTR-1 & GSTR-2B)
+               └──> Transmits to E-Way Bill Portal (Generates Part-A)
+               │
+               ▼
+[Validated Invoice returned to Seller with IRN & QR Code]
+```
+
+---
+
+## 3. Impact on Input Tax Credit (ITC) & Buyer Compliance
+
+E-invoicing fundamentally transforms Input Tax Credit validation under Section 16 of the CGST Act:
+
+1. **Validity of Document**: Under Section 48(5), an invoice issued by an applicable taxpayer **without an IRN is not considered a valid tax invoice**. Consequently, recipient buyers cannot legally claim ITC on non-IRN invoices.
+2. **Auto-Population in GSTR-2B**: Once generated on the IRP, data flows directly into the buyer's **GSTR-2B**, enabling real-time vendor credit reconciliation.
+
+---
+
+## 4. Time Limit for IRN Generation & Cancellation Rules
+
+### A. Time Bar for Uploading Invoices
+Notified taxpayers with turnover exceeding **₹100 Crores** are subject to a **30-day time limit** for uploading invoices on the IRP portal from the invoice date.
+
+### B. IRN Cancellation Protocol
+- An IRN can be cancelled on the IRP only within **24 hours** of generation.
+- Partial cancellation or editing of an IRN is not permitted. If details are incorrect, the IRN must be cancelled and a fresh invoice generated (using a new invoice number).
+- After 24 hours, modifications must be handled through Credit/Debit Notes on the GST portal (GSTR-1).
+
+---
+
+## 5. Compliance Checklist for Practicing Managers
+
+- [ ] Verify aggregate turnover across all PANs from FY 2017-18 to ensure applicability compliance.
+- [ ] Configure ERP software to block generation of B2B printouts without QR code and IRN.
+- [ ] Implement automated monthly reconciliation of GSTR-1 filed vs. IRP generated IRNs.
+- [ ] Audit vendor master records to ensure active GSTIN status prior to billing.
+
+---
+
+## Conclusion
+
+E-invoicing enforces structural data accuracy across the tax ecosystem. Taxpayers must ensure robust system integration to prevent ITC disallowance for business buyers and avoid penalties under Section 125 of the CGST Act.

@@ -1,0 +1,77 @@
+{
+  "id": "income-tax",
+  "slug": "income-tax",
+  "title": "Direct Tax Compliance & Advisory",
+  "shortDescription": "Comprehensive income tax advisory, statutory filing, search & seizure support, and representation before tax authorities for corporates, firms, and individuals.",
+  "fullDescription": "S.G. & Associates provides end-to-end Direct Taxation services adhering to the provisions of the Income Tax Act, 1961 and rules issued thereunder. Our practice encompasses corporate tax planning, computation, filing of annual returns, tax audit management under section 44AB, representation before appellate authorities, and assistance with assessment proceedings. We help entities align their tax strategy with dynamic statutory regulations while maintaining rigorous compliance discipline.",
+  "scopeOfWork": [
+    "Corporate and individual income tax return preparation and electronic filing (ITR-1 to ITR-7)",
+    "Tax Audit under Section 44AB of the Income Tax Act, 1961",
+    "TDS/TCS advisory, quarterly filing, and certification (Form 24Q, 26Q, 27Q, 27EQ)",
+    "Advance tax computation and planning across quarterly deadline schedules",
+    "Assisting with tax scrutiny assessments, tribunal representations, and appellate proceedings",
+    "Capital gains taxation, structuring, and indexation analysis for asset transfers",
+    "Form 10E, Form 10B/10BB for charitable trusts and non-profit institutions filing",
+    "Filing applications for Lower TDS Deduction Certificates under Section 197"
+  ],
+  "process": [
+    {
+      "stepNumber": 1,
+      "title": "Data Gathering & Review",
+      "description": "Verification of financial statements, Form 26AS, AIS, TIS, and transaction ledgers to compile tax records."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Tax Computation & Planning",
+      "description": "Analyzing applicable deductions, exemptions, and depreciation schedules under statutory tax frameworks."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Drafting & Quality Audit",
+      "description": "Preparation of tax returns and audit reports subject to internal review by the Principal CA."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Filing & Acknowledgement",
+      "description": "Electronic submission on the Income Tax E-filing portal and verification setup."
+    }
+  ],
+  "deliverables": [
+    {
+      "title": "Computation of Income Statement",
+      "description": "Detailed calculation sheet detailing head-wise income, allowable deductions, and tax liabilities."
+    },
+    {
+      "title": "ITR Filing Acknowledgements (ITR-V)",
+      "description": "Official portal receipt confirming successful electronic submission."
+    },
+    {
+      "title": "Form 3CA/3CB-3CD Audit Reports",
+      "description": "Statutory tax audit documentation certified by the Principal CA for applicable business entities."
+    },
+    {
+      "title": "Quarterly TDS/TCS Certificates & Returns",
+      "description": "Filed returns and Form 16/16A generation for compliance records."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the threshold limit for Tax Audit under Section 44AB?",
+      "answer": "For businesses, tax audit is mandatory if total sales, turnover, or gross receipts exceed ₹1 Crore in a financial year (or ₹10 Crores if cash transactions do not exceed 5% of total receipts/payments). For professionals, the threshold is ₹50 Lakhs (or ₹75 Lakhs under presumptive taxation where cash receipts do not exceed 5%)."
+    },
+    {
+      "question": "How are scrutiny notices handled by the firm?",
+      "answer": "We review the e-proceedings notice issued under Section 143(2) or 142(1), compile necessary ledger extract documentation, prepare written submissions, and submit response documentation directly through the faceless assessment scheme portal."
+    },
+    {
+      "question": "What is the timeline for advance tax installments?",
+      "answer": "Advance tax for corporate and non-corporate assessees must be paid in four installments: 15% by June 15, 45% by September 15, 75% by December 15, and 100% by March 15 of the relevant financial year."
+    }
+  ],
+  "keyHighlights": [
+    "Supervised directly by Principal CA Saatvik Gupta (FCA, DISA)",
+    "Full adherence to ICAI Code of Ethics and Income Tax Rules",
+    "Faceless assessment preparation and digital document workflow",
+    "Comprehensive coverage of corporate, trust, and individual tax mandates"
+  ]
+}

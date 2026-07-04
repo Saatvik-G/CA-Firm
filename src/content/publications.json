@@ -1,0 +1,59 @@
+[
+  {
+    "id": "annual-tax-compliance-handbook-2024-25",
+    "slug": "annual-tax-compliance-handbook-2024-25",
+    "title": "Annual Statutory Tax & Compliance Master Guide FY 2024-25",
+    "description": "A comprehensive reference handbook covering key income tax statutory deadlines, TDS deduction rate charts, GST return schedules, MCA annual compliance timelines, and Section 43B(h) payment rules.",
+    "date": "2024-10-01",
+    "author": "CA Saatvik Gupta",
+    "fileSize": "2.4 MB",
+    "fileFormat": "PDF",
+    "downloadUrl": "/downloads/publications/Tax_Compliance_Master_Guide_FY24_25.pdf",
+    "category": "Tax & Compliance",
+    "topics": [
+      "Income Tax Calendar",
+      "TDS Rate Chart",
+      "GST Filing Deadlines",
+      "Section 43B(h) Checklist",
+      "MCA Due Dates"
+    ]
+  },
+  {
+    "id": "msme-financial-growth-and-subsidy-guide",
+    "slug": "msme-financial-growth-and-subsidy-guide",
+    "title": "MSME Financial Structuring & Statutory Credit Schemes Whitepaper",
+    "description": "An exhaustive analysis of government credit guarantee schemes (CGTMSE), Udyam registration benefits, interest subvention programs, and Section 43B(h) compliance management for small and medium enterprises.",
+    "date": "2024-11-20",
+    "author": "CA Saatvik Gupta",
+    "fileSize": "1.8 MB",
+    "fileFormat": "PDF",
+    "downloadUrl": "/downloads/publications/MSME_Financial_Growth_Guide.pdf",
+    "category": "MSME Advisory",
+    "topics": [
+      "Udyam Benefits",
+      "CGTMSE Coverage",
+      "Interest Subvention",
+      "Bank Credit Project Reports",
+      "MSME Samadhaan"
+    ]
+  },
+  {
+    "id": "gst-e-invoicing-and-itc-reconciliation-playbook",
+    "slug": "gst-e-invoicing-and-itc-reconciliation-playbook",
+    "title": "GST E-Invoicing & Input Tax Credit (GSTR-2B) Audit Playbook",
+    "description": "A practitioner's guide to managing Rule 48(4) e-invoicing compliance, setting up vendor GSTR-2B reconciliation systems, and handling GST departmental audit notices under Section 65.",
+    "date": "2024-12-15",
+    "author": "CA Saatvik Gupta",
+    "fileSize": "3.1 MB",
+    "fileFormat": "PDF",
+    "downloadUrl": "/downloads/publications/GST_E_Invoicing_ITC_Playbook.pdf",
+    "category": "GST Advisory",
+    "topics": [
+      "Rule 48(4) E-Invoicing",
+      "GSTR-2B ITC Matching",
+      "Form GST ADT-01 Audits",
+      "Rule 36(4) Compliance",
+      "Export LUT Refunds"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+{
+  "id": "gst",
+  "slug": "gst",
+  "title": "Goods & Services Tax (GST) Advisory & Filing",
+  "shortDescription": "End-to-end GST statutory compliance, GSTR-1/3B filings, annual GSTR-9/9C reconciliations, e-invoicing integration, and representation.",
+  "fullDescription": "Under the Goods and Services Tax framework in India, business operations require meticulous transactional accuracy and timely reporting. S.G. & Associates provides complete GST advisory, compliance, and audit representation services. We assist clients in navigating complex input tax credit (ITC) rules, GST portal reconciliations (GSTR-2B vs. Books), e-invoicing compliance under Rule 48(4), e-way bill management, and handling departmental audit notices under Sections 61, 65, and 73/74.",
+  "scopeOfWork": [
+    "GST Registration and core/non-core amendment filings across multi-state setups",
+    "Monthly and quarterly tax filings including GSTR-1, GSTR-3B, and CMP-08",
+    "Input Tax Credit (ITC) reconciliation with GSTR-2B to prevent credit leaks and over-claims",
+    "Annual Return (GSTR-9) and Reconciliation Statement (GSTR-9C) compilation",
+    "E-invoicing implementation, API workflow verification, and IRN management",
+    "GST refund application filing for exporters (LUT & inverted duty structure)",
+    "Advisory on classification of goods/services, HSN/SAC codes, and GST rates",
+    "Drafting replies to GST show cause notices (SCN) and assistance in departmental audits"
+  ],
+  "process": [
+    {
+      "stepNumber": 1,
+      "title": "Sales & Purchase Data Extraction",
+      "description": "Extracting monthly sales registers, purchase ledgers, and e-way bill data from accounting software."
+    },
+    {
+      "stepNumber": 2,
+      "title": "ITC Matching & Reconciliation",
+      "description": "Performing automated and manual reconciliation of purchase registers against GSTR-2B portal data."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Tax Liability Computation",
+      "description": "Calculating net GST payable after eligible ITC set-offs and reverse charge mechanism (RCM) adjustments."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Filing & Portal Verification",
+      "description": "Filing verified returns on the GSTN portal and archiving return filed acknowledgements."
+    }
+  ],
+  "deliverables": [
+    {
+      "title": "Monthly GSTR-1 and GSTR-3B Return Summaries",
+      "description": "Filing confirmation receipts detailing outwards supplies, tax liability, and ITC claimed."
+    },
+    {
+      "title": "GSTR-2B vs. Ledger Reconciliation Report",
+      "description": "Monthly report identifying eligible ITC, ineligible ITC, and vendor mismatch items."
+    },
+    {
+      "title": "GSTR-9 and GSTR-9C Annual Compliance Documents",
+      "description": "Reconciliation statement comparing audited financial statements with portal filings."
+    },
+    {
+      "title": "Export Refund Sanction Orders & Documentation",
+      "description": "Filed RFD-01 applications and tracking receipts for tax refunds."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What is the consequence of claiming ITC not reflected in GSTR-2B?",
+      "answer": "Under Rule 36(4) of the CGST Rules, a taxpayer cannot claim ITC unless the supplier has uploaded the invoice in their GSTR-1 and it reflects in the recipient's GSTR-2B. Unmatched ITC claims lead to demand notices with interest under Section 50."
+    },
+    {
+      "question": "Who is required to generate E-invoices under GST?",
+      "answer": "Currently, taxpayers whose aggregate turnover in any preceding financial year from 2017-18 onwards exceeds ₹5 Crores are required to generate Invoice Reference Numbers (IRN) for B2B transactions and exports."
+    },
+    {
+      "question": "How are GST departmental audit notices addressed?",
+      "answer": "Upon receipt of Form GST ADT-01, we assist in preparing reconciliation workpapers, verifying stock registers, confirming outward tax payments, and representing the client before audit authorities."
+    }
+  ],
+  "keyHighlights": [
+    "Structured monthly vendor ITC reconciliation methodology",
+    "Specialized knowledge in export LUT procedures and GST refunds",
+    "Proven framework for GSTR-9/9C annual compliance",
+    "Strict conformity with GST circulars and CBIC notifications"
+  ]
+}

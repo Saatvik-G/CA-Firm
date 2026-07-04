@@ -1,0 +1,77 @@
+{
+  "id": "startup-advisory",
+  "slug": "startup-advisory",
+  "title": "Startup & Growth Advisory",
+  "shortDescription": "Strategic structuring, DPIIT registration, pitch deck financial modeling, cap table management, ESOP planning, and regulatory compliance.",
+  "fullDescription": "Early-stage and growth-stage ventures operate in a fast-paced environment that demands robust financial architecture from day one. S.G. & Associates offers specialized financial advisory services tailored for startups. We assist founders in selecting the appropriate corporate structure, securing DPIIT Startup Recognition, obtaining Section 56(2)(viib) tax exemptions, setting up financial reporting systems, and preparing investor-grade financial models.",
+  "scopeOfWork": [
+    "Entity structuring: Evaluating Private Limited vs. LLP structures for equity readiness",
+    "DPIIT Startup India recognition application and tax exemption certificate filing",
+    "Section 56(2)(viib) (Angel Tax) compliance and valuation documentation",
+    "Financial modeling, 5-year projections, and unit economics validation",
+    "Capitalization table (Cap Table) structure modeling and dilution scenario planning",
+    "Employee Stock Option Plan (ESOP) scheme drafting and tax implication analysis",
+    "Due diligence preparation (Vendor Due Diligence) ahead of seed/venture funding rounds",
+    "FDI/FEMA compliance for cross-border investments (FC-GPR, FC-TRS filings with RBI)"
+  ],
+  "process": [
+    {
+      "stepNumber": 1,
+      "title": "Business Model Assessment",
+      "description": "Evaluating founder vision, operational model, revenue streams, and capital requirements."
+    },
+    {
+      "stepNumber": 2,
+      "title": "Structure Execution & Registration",
+      "description": "Incorporating the corporate entity, obtaining PAN/TAN/GST, and registering on Startup India."
+    },
+    {
+      "stepNumber": 3,
+      "title": "Financial Architecture Setup",
+      "description": "Establishing chart of accounts, accounting policies, and monthly MIS reporting structures."
+    },
+    {
+      "stepNumber": 4,
+      "title": "Investor Readiness & Ongoing Advisory",
+      "description": "Preparing pitch deck financial schedules, data room documentation, and monthly financial guidance."
+    }
+  ],
+  "deliverables": [
+    {
+      "title": "DPIIT Recognition Certificate & Application File",
+      "description": "Official Department for Promotion of Industry and Internal Trade recognition code and tax exemption submissions."
+    },
+    {
+      "title": "Investor Financial Model & Valuation Report",
+      "description": "Comprehensive Excel financial model featuring DCF/CCPS valuations and scenario analysis."
+    },
+    {
+      "title": "Cap Table & Equity Structure Register",
+      "description": "Multi-tier equity schedule tracking founder shares, ESOP pool, and investor convertible instruments."
+    },
+    {
+      "title": "Monthly MIS Reporting Package",
+      "description": "Monthly executive report tracking MRR/ARR, burn rate, runway, and cash flow projections."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "What are the key benefits of DPIIT Startup Recognition?",
+      "answer": "DPIIT recognition provides access to 80-IAC income tax exemptions for 3 consecutive years, exemption from Section 56(2)(viib) angel tax provisions, self-certification under labor/environmental laws, fast-tracked patent applications, and eligibility for public procurement relaxations."
+    },
+    {
+      "question": "How are Convertible Notes and CCPS treated under FEMA and Companies Act?",
+      "answer": "Compulsorily Convertible Preference Shares (CCPS) and Convertible Notes are treated as equity instruments under FDI rules when issued within statutory timeframes. Form FC-GPR must be filed with the RBI within 30 days of allotment through the Single Master Form (SMF) portal."
+    },
+    {
+      "question": "Does the firm assist in setting up ESOP schemes?",
+      "answer": "Yes. We assist in structuring ESOP pools, drafting ESOP policy documents, calculating exercise prices, and determining tax implications at both grant/vesting and exercise stages for employees and the company."
+    }
+  ],
+  "keyHighlights": [
+    "Specialized experience in startup financial architecture",
+    "Complete support for DPIIT and Section 80-IAC tax exemptions",
+    "FEMA and cross-border investment compliance capabilities",
+    "Investor-grade financial models and data room preparation"
+  ]
+}

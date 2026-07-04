@@ -1,0 +1,31 @@
+{
+  "id": "technology-startups",
+  "slug": "technology-startups",
+  "title": "Technology Startups & SaaS Enterprise",
+  "shortDescription": "Financial architecture, DPIIT recognition, valuation, ESOP structuring, and FDI compliance for tech and software ventures.",
+  "fullDescription": "Technology startups and SaaS entities operate in high-growth, capital-intensive environments with unique financial models—including recurring revenue (MRR/ARR), ESOP equity pools, cross-border SaaS sales, Section 56(2)(viib) valuation requirements, and FEMA compliance for foreign direct investment. S.G. & Associates delivers strategic tax, valuation, and compliance services tailored for software and technology founders.",
+  "keyChallenges": [
+    "Navigating Section 56(2)(viib) (Angel Tax) valuations and DPIIT 80-IAC tax exemption applications",
+    "FEMA and RBI regulatory compliance for cross-border investments and inward FDI remittances",
+    "Designing tax-efficient ESOP schemes for key talent attraction and retention",
+    "Accounting for deferred revenue, software R&D capitalization, and cross-border SaaS tax withholding"
+  ],
+  "tailoredSolutions": [
+    "Formulating DCF and Rule 11UA valuation reports certified by Practicing CA",
+    "End-to-end management of Form FC-GPR filing via RBI's FIRMS portal for share allotments",
+    "ESOP scheme policy drafting, grant schedules, and tax withholding calculation frameworks",
+    "Monthly SaaS revenue recognition models (Ind AS 115) and MIS reporting dashboards"
+  ],
+  "relevantServices": [
+    "startup-advisory",
+    "business-valuation",
+    "company-law",
+    "virtual-cfo"
+  ],
+  "caseStudy": {
+    "title": "Series-A Valuation & FDI Compliance for B2B SaaS Enterprise",
+    "context": "A seed-funded enterprise software startup secured a $2M investment commitment from an overseas fund requiring valuation certification, FEMA compliance, and cap table restructuring.",
+    "approach": "S.G. & Associates executed a Discounted Cash Flow valuation under Rule 11UA and FEMA guidelines, prepared FC-GPR documentation, and structured CCPS conversion terms.",
+    "outcome": "Achieved successful RBI FC-GPR filing approval within statutory timeframes and secured complete Section 56(2)(viib) angel tax compliance clearance."
+  }
+}

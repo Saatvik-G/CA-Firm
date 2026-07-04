@@ -1,0 +1,39 @@
+[
+  {
+    "id": "mastering-section-43b-h-msme-compliance",
+    "slug": "mastering-section-43b-h-msme-compliance",
+    "title": "Mastering Section 43B(h) MSME Statutory Compliance & Audit Readiness",
+    "description": "An expert-led technical session analyzing the impact of Section 43B(h) on MSME creditor payments, disallowance provisions, vendor classification strategies, and audit documentation.",
+    "date": "2025-08-20",
+    "time": "4:00 PM - 5:30 PM IST",
+    "speaker": "CA Saatvik Gupta",
+    "speakerDesignation": "Proprietor & Principal CA, S.G. & Associates",
+    "status": "upcoming",
+    "registrationUrl": "https://sgassociates.in/webinars/register/msme-43bh",
+    "keyTakeaways": [
+      "Understanding the 15-day and 45-day statutory payment timelines",
+      "Identifying Micro vs Small Enterprise classification under Udyam",
+      "Impact of disallowances on annual income tax computation and cash flow",
+      "Practical accounting ledgers setup and vendor audit workflows"
+    ]
+  },
+  {
+    "id": "gst-e-invoicing-itc-reconciliation-masterclass",
+    "slug": "gst-e-invoicing-itc-reconciliation-masterclass",
+    "title": "GST E-Invoicing & GSTR-2B Automated ITC Reconciliation Masterclass",
+    "description": "A comprehensive practical webinar on Rule 48(4) e-invoicing workflows, IRN validation, handling DRC-01C mismatch notices, and optimizing monthly input tax credit.",
+    "date": "2025-05-15",
+    "time": "3:30 PM - 5:00 PM IST",
+    "speaker": "CA Saatvik Gupta",
+    "speakerDesignation": "Proprietor & Principal CA, S.G. & Associates",
+    "status": "past",
+    "recordingUrl": "https://sgassociates.in/webinars/recordings/gst-e-invoicing",
+    "presentationDeckUrl": "/downloads/webinars/GST_EInvoicing_Masterclass_Deck.pdf",
+    "keyTakeaways": [
+      "Rule 48(4) E-invoicing applicability for businesses above ₹5 Crore turnover",
+      "Automated matching of purchase registers with GSTR-2B portal statements",
+      "Resolving DRC-01C system notices within statutory 7-day deadlines",
+      "Preventing ITC disallowances under Rule 36(4)"
+    ]
+  }
+]

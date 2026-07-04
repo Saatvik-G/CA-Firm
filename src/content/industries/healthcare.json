@@ -1,0 +1,31 @@
+{
+  "id": "healthcare",
+  "slug": "healthcare",
+  "title": "Healthcare & Pharmaceuticals",
+  "shortDescription": "Tax planning, statutory audit, trust tax compliance, pharmaceutical GST, and capital expenditure financial controls for healthcare institutions.",
+  "fullDescription": "Hospitals, medical chains, diagnostic networks, and pharmaceutical manufacturers operate in a heavily regulated environment governed by specific tax provisions, trust laws, and GST exemption matrices. S.G. & Associates delivers targeted accounting, tax audit, and governance services for healthcare organizations, medical practitioners, and pharma entities.",
+  "keyChallenges": [
+    "Navigating complex GST exemption rules on healthcare services versus taxable medicines and implants",
+    "Section 11/12/10(23C) trust taxation compliance for charitable and non-profit healthcare institutions",
+    "High capital expenditure depreciation scheduling and medical equipment lease accounting",
+    "TDS compliance on professional payments to consulting doctors (Section 194J) and staff"
+  ],
+  "tailoredSolutions": [
+    "Structuring pharmacy retail vs. hospital service billing to maintain full GST compliance",
+    "Form 10B/10BB tax audit compilation for registered medical trusts and research foundations",
+    "Fixed asset register compilation and depreciation verification for medical diagnostics machinery",
+    "Doctor contract classification and Section 194J quarterly TDS audit procedures"
+  ],
+  "relevantServices": [
+    "income-tax",
+    "statutory-audit",
+    "gst",
+    "internal-audit"
+  ],
+  "caseStudy": {
+    "title": "Tax Audit & Section 10(23C) Trust Compliance for 100-Bed Multi-Specialty Hospital",
+    "context": "A charitable healthcare trust operating a multi-specialty hospital required annual tax audit under Form 10B, trust income accumulation compliance, and doctor TDS audit.",
+    "approach": "S.G. & Associates conducted a complete audit of trust income applications, verified Section 11(2) accumulation filings (Form 10), and audited doctor retentions.",
+    "outcome": "Successfully secured Form 10B audit certification and ensured complete tax exemption status retention for the trust."
+  }
+}
