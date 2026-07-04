@@ -62,7 +62,7 @@ export default async function IndustryDetailPage({ params }: IndustryPageProps) 
 
           <div className="bg-slate-900 text-white rounded-3xl p-8 sm:p-12 border border-slate-800 shadow-xl space-y-6">
             <span className="inline-block px-3.5 py-1 rounded-full text-xs font-semibold bg-blue-950 text-blue-300 border border-blue-800 uppercase tracking-wider">
-              Industry Specialization • S.G. & Associates
+              Industry Specialization • Anil Puneet and Associates
             </span>
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white leading-tight">
               {industry.title}
@@ -104,7 +104,7 @@ export default async function IndustryDetailPage({ params }: IndustryPageProps) 
           <div className="bg-white dark:bg-slate-900 rounded-3xl p-8 border border-slate-200 dark:border-slate-800 shadow-sm space-y-6">
             <h2 className="text-2xl font-bold text-slate-900 dark:text-white flex items-center gap-2">
               <span className="w-3 h-3 rounded-full bg-emerald-500" />
-              S.G. & Associates Tailored Solutions
+              Anil Puneet and Associates Tailored Solutions
             </h2>
             <ul className="space-y-4">
               {industry.tailoredSolutions.map((item, index) => (

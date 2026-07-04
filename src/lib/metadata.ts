@@ -20,16 +20,16 @@ export function constructMetadata({
   ogType = 'website',
   publishedTime,
   modifiedTime,
-  authors = ['CA Saatvik Gupta'],
+  authors = ['CA Puneet Gupta'],
   keywords = [
     'Chartered Accountant',
-    'CA Firm Ahmedabad',
+    'CA Firm Panchkula',
     'Tax Consultant',
     'Statutory Audit',
     'GST Filing',
     'Income Tax Return',
     'Virtual CFO',
-    'S.G. & Associates'
+    'Anil Puneet and Associates'
   ],
   noIndex = false,
 }: GenerateMetadataProps): Metadata {
@@ -42,7 +42,7 @@ export function constructMetadata({
     description,
     keywords,
     authors: authors.map((name) => ({ name })),
-    creator: 'CA Saatvik Gupta',
+    creator: 'CA Puneet Gupta',
     publisher: siteConfig.firmName,
     metadataBase: new URL(siteUrl),
     alternates: {

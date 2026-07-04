@@ -5,7 +5,7 @@ export default function TrustIndicators() {
     { label: 'Years of Practice', value: '14+', description: 'Established continuous practice since 2012' },
     { label: 'Corporate & MSME Clients', value: '250+', description: 'Across manufacturing, tech, and retail' },
     { label: 'Statutory Compliance Rate', value: '100%', description: 'Strict adherence to ICAI & statutory deadlines' },
-    { label: 'ICAI Mem. & FRN Disclosed', value: 'Verified', description: 'Mem #123456 • FRN 100001W' },
+    { label: 'ICAI Mem. & FRN Disclosed', value: 'Verified', description: 'Mem #059435 • FRN 016890N' },
   ];
 
   return (

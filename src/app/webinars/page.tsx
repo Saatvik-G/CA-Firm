@@ -5,8 +5,8 @@ import { getAllWebinars } from '@/lib/content';
 import { constructMetadata } from '@/lib/metadata';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Technical Webinars & Seminars | S.G. & Associates',
-  description: 'Technical seminars, compliance workshops, and live webinars on tax audit AY 2025-26, GSTR-9/9C reconciliation, and startup valuations led by CA Saatvik Gupta.',
+  title: 'Technical Webinars & Seminars | Anil Puneet and Associates',
+  description: 'Technical seminars, compliance workshops, and live webinars on tax audit AY 2025-26, GSTR-9/9C reconciliation, and startup valuations led by CA Puneet Gupta.',
   path: '/webinars',
 });
 
@@ -28,7 +28,7 @@ export default function WebinarsPage() {
             Webinars & Technical Seminars
           </h1>
           <p className="text-lg text-slate-600 dark:text-slate-300">
-            Interactive sessions led by Principal CA Saatvik Gupta covering income tax scrutinies, Section 43B(h), GSTR-9C audit reconciliations, and FDI startup valuations.
+            Interactive sessions led by Principal CA Puneet Gupta covering income tax scrutinies, Section 43B(h), GSTR-9C audit reconciliations, and FDI startup valuations.
           </p>
         </div>
 
@@ -138,7 +138,7 @@ export default function WebinarsPage() {
 
                 <div className="pt-4 border-t border-slate-100 dark:border-slate-800 flex gap-4 text-xs font-bold">
                   <a
-                    href={`mailto:contact@sgassociates.in?subject=Request Webinar Recording/Deck: ${encodeURIComponent(w.title)}`}
+                    href={`mailto:gupta.puneetca@gmail.com?subject=Request Webinar Recording/Deck: ${encodeURIComponent(w.title)}`}
                     className="text-blue-700 dark:text-blue-400 hover:underline"
                   >
                     📥 Request Deck / Slides Copy

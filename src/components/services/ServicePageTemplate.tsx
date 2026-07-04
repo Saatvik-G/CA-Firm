@@ -24,7 +24,7 @@ export default function ServicePageTemplate({ service }: { service: Service }) {
 
           <div className="bg-slate-900 text-white rounded-3xl p-8 sm:p-12 border border-slate-800 shadow-xl space-y-6">
             <span className="inline-block px-3.5 py-1 rounded-full text-xs font-semibold bg-blue-950 text-blue-300 border border-blue-800 uppercase tracking-wider">
-              Practicing Area • Supervised by CA Saatvik Gupta
+              Practicing Area • Supervised by CA Puneet Gupta
             </span>
             <h1 className="text-3xl sm:text-4xl lg:text-5xl font-extrabold text-white leading-tight">
               {service.title}

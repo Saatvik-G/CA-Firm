@@ -4,8 +4,8 @@ import { constructMetadata } from '@/lib/metadata';
 import siteConfig from '@/lib/siteConfig';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Privacy Policy | S.G. & Associates',
-  description: 'Privacy policy and data protection standards followed by S.G. & Associates in accordance with ICAI confidentiality guidelines and statutory regulations.',
+  title: 'Privacy Policy | Anil Puneet and Associates',
+  description: 'Privacy policy and data protection standards followed by Anil Puneet and Associates in accordance with ICAI confidentiality guidelines and statutory regulations.',
   path: '/privacy-policy',
 });
 
@@ -29,7 +29,7 @@ export default function PrivacyPolicyPage() {
         <div className="bg-white dark:bg-slate-900 rounded-3xl p-8 sm:p-12 border border-slate-200 dark:border-slate-800 shadow-sm space-y-6 text-sm text-slate-700 dark:text-slate-300 leading-relaxed">
           <h2 className="text-xl font-bold text-slate-900 dark:text-white">1. ICAI Confidentiality Standards</h2>
           <p>
-            S.G. & Associates is bound by the professional Code of Ethics issued by The Institute of Chartered Accountants of India (ICAI). Under Paragraph 1 of Part I of the First Schedule to the Chartered Accountants Act, 1949, client information, financial records, ledgers, tax documents, and personal details shared with the firm are maintained under strict professional confidentiality.
+            Anil Puneet and Associates is bound by the professional Code of Ethics issued by The Institute of Chartered Accountants of India (ICAI). Under Paragraph 1 of Part I of the First Schedule to the Chartered Accountants Act, 1949, client information, financial records, ledgers, tax documents, and personal details shared with the firm are maintained under strict professional confidentiality.
           </p>
 
           <h2 className="text-xl font-bold text-slate-900 dark:text-white">2. Information Collection & Purpose</h2>
@@ -49,7 +49,7 @@ export default function PrivacyPolicyPage() {
 
           <h2 className="text-xl font-bold text-slate-900 dark:text-white">5. Contact Regarding Privacy</h2>
           <p>
-            For any queries regarding data privacy, write to Principal CA Saatvik Gupta at <strong className="text-slate-900 dark:text-white">{siteConfig.contact.email}</strong>.
+            For any queries regarding data privacy, write to Principal CA Puneet Gupta at <strong className="text-slate-900 dark:text-white">{siteConfig.contact.email}</strong>.
           </p>
         </div>
 

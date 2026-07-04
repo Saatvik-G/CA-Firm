@@ -3,8 +3,8 @@ import type { Metadata } from 'next';
 import { constructMetadata } from '@/lib/metadata';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Cookie Policy | S.G. & Associates',
-  description: 'Cookie policy and technical preference tracking disclosure for S.G. & Associates website.',
+  title: 'Cookie Policy | Anil Puneet and Associates',
+  description: 'Cookie policy and technical preference tracking disclosure for Anil Puneet and Associates website.',
   path: '/cookie-policy',
 });
 
@@ -25,7 +25,7 @@ export default function CookiePolicyPage() {
         <div className="bg-white dark:bg-slate-900 rounded-3xl p-8 sm:p-12 border border-slate-200 dark:border-slate-800 shadow-sm space-y-6 text-sm text-slate-700 dark:text-slate-300 leading-relaxed">
           <h2 className="text-xl font-bold text-slate-900 dark:text-white">1. Use of Local Storage & Essential Cookies</h2>
           <p>
-            S.G. & Associates uses minimal essential cookies and browser LocalStorage solely to store visitor interface preferences (such as light vs. dark color theme preference).
+            Anil Puneet and Associates uses minimal essential cookies and browser LocalStorage solely to store visitor interface preferences (such as light vs. dark color theme preference).
           </p>
 
           <h2 className="text-xl font-bold text-slate-900 dark:text-white">2. No Commercial Tracking</h2>

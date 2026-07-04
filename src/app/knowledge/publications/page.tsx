@@ -5,8 +5,8 @@ import { getAllPublications } from '@/lib/content';
 import { constructMetadata } from '@/lib/metadata';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Publications & Technical Manuals | S.G. & Associates',
-  description: 'Downloadable statutory guidance manuals, Form 3CD audit checklists, and GST annual reconciliation handbooks compiled by S.G. & Associates.',
+  title: 'Publications & Technical Manuals | Anil Puneet and Associates',
+  description: 'Downloadable statutory guidance manuals, Form 3CD audit checklists, and GST annual reconciliation handbooks compiled by Anil Puneet and Associates.',
   path: '/knowledge/publications',
 });
 
@@ -71,7 +71,7 @@ export default function PublicationsPage() {
 
               <div className="pt-4 border-t border-slate-100 dark:border-slate-800">
                 <a
-                  href={`mailto:contact@sgassociates.in?subject=Request PDF Publication: ${encodeURIComponent(pub.title)}`}
+                  href={`mailto:gupta.puneetca@gmail.com?subject=Request PDF Publication: ${encodeURIComponent(pub.title)}`}
                   className="block w-full py-3 rounded-lg bg-blue-900 hover:bg-blue-800 dark:bg-blue-600 dark:hover:bg-blue-500 text-white text-center text-xs font-bold transition-colors shadow-sm"
                 >
                   📥 Request PDF Resource Copy

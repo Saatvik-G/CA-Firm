@@ -5,8 +5,8 @@ import { getAllTaxUpdates } from '@/lib/content';
 import { constructMetadata } from '@/lib/metadata';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Direct Tax Updates & CBDT Circulars | S.G. & Associates',
-  description: 'Recent Income Tax alerts, CBDT circular breakdowns, Section 197 Form 13 updates, and statutory tax amendments analyzed by S.G. & Associates.',
+  title: 'Direct Tax Updates & CBDT Circulars | Anil Puneet and Associates',
+  description: 'Recent Income Tax alerts, CBDT circular breakdowns, Section 197 Form 13 updates, and statutory tax amendments analyzed by Anil Puneet and Associates.',
   path: '/knowledge/tax-updates',
 });
 

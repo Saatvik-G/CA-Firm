@@ -29,7 +29,7 @@ export default function ContactPage() {
             Client Inquiry
           </span>
           <h1 className="text-4xl font-extrabold text-slate-900 dark:text-white sm:text-5xl">
-            Contact S.G. & Associates
+            Contact Anil Puneet and Associates
           </h1>
           <p className="text-lg text-slate-600 dark:text-slate-300">
             Reach out for professional engagements, tax audit consultations, or statutory compliance reviews.
@@ -51,7 +51,7 @@ export default function ContactPage() {
                 </div>
                 <h3 className="text-xl font-bold text-slate-900 dark:text-white">Inquiry Received</h3>
                 <p className="text-xs text-slate-600 dark:text-slate-300">
-                  Thank you for contacting S.G. & Associates. Our practice office will review your request and contact you via email or phone within 1 business day.
+                  Thank you for contacting Anil Puneet and Associates. Our practice office will review your request and contact you via email or phone within 1 business day.
                 </p>
                 <button
                   onClick={() => setSubmitted(false)}
@@ -200,7 +200,7 @@ export default function ContactPage() {
 
                 <div>
                   <strong className="text-white block uppercase tracking-wider text-[11px] mb-1">Sole Proprietor:</strong>
-                  <p>CA Saatvik Gupta (FCA, DISA) • ICAI Mem #123456</p>
+                  <p>CA Puneet Gupta (FCA, DISA) • ICAI Mem #059435</p>
                 </div>
               </div>
 
@@ -211,7 +211,7 @@ export default function ContactPage() {
                 </span>
                 <div className="w-full h-48 rounded-xl bg-slate-800 border border-slate-700 flex flex-col items-center justify-center p-4 text-center space-y-2">
                   <div className="text-2xl">📍</div>
-                  <div className="text-xs font-bold text-white">Business Tower, MG Road, Ahmedabad</div>
+                  <div className="text-xs font-bold text-white">Business Tower, MG Road, Panchkula</div>
                   <div className="text-[11px] text-slate-400">Gujarat, 380009</div>
                 </div>
               </div>

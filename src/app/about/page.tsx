@@ -4,8 +4,8 @@ import { constructMetadata } from '@/lib/metadata';
 import siteConfig from '@/lib/siteConfig';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'About Our Firm & Ethos | S.G. & Associates',
-  description: 'Learn about S.G. & Associates, a Chartered Accountant sole proprietorship practice established in 2012 by CA Saatvik Gupta. Operating under ICAI guidelines and statutory ethical standards.',
+  title: 'About Our Firm & Ethos | Anil Puneet and Associates',
+  description: 'Learn about Anil Puneet and Associates, a Chartered Accountant sole proprietorship practice established in 2012 by CA Puneet Gupta. Operating under ICAI guidelines and statutory ethical standards.',
   path: '/about',
 });
 
@@ -16,12 +16,12 @@ export default function AboutPage() {
     {
       year: '2012',
       title: 'Firm Establishment',
-      description: 'S.G. & Associates was established as a Chartered Accountancy sole proprietorship in Ahmedabad, securing ICAI Registration No. 100001W.'
+      description: 'Anil Puneet and Associates was established as a Chartered Accountancy sole proprietorship in Panchkula, securing ICAI Registration No. 016890N.'
     },
     {
       year: '2015',
       title: 'DISA Qualification & Systems Audit Expansion',
-      description: 'Principal CA Saatvik Gupta acquired the DISA post-qualification qualification from ICAI, expanding practice into Information Systems Audit and IT Controls.'
+      description: 'Principal CA Puneet Gupta acquired the DISA post-qualification qualification from ICAI, expanding practice into Information Systems Audit and IT Controls.'
     },
     {
       year: '2017',
@@ -50,10 +50,10 @@ export default function AboutPage() {
             Sole Proprietorship Practice
           </span>
           <h1 className="text-4xl font-extrabold text-slate-900 dark:text-white sm:text-5xl">
-            About S.G. & Associates
+            About Anil Puneet and Associates
           </h1>
           <p className="text-lg text-slate-600 dark:text-slate-300">
-            Founded in {siteConfig.establishedYear}, S.G. & Associates is built on three unyielding pillars: Integrity, Technical Precision, and Ethical Transparency.
+            Founded in {siteConfig.establishedYear}, Anil Puneet and Associates is built on three unyielding pillars: Integrity, Technical Precision, and Ethical Transparency.
           </p>
         </div>
 
@@ -64,7 +64,7 @@ export default function AboutPage() {
               Professional Practice Overview
             </h2>
             <p className="text-slate-600 dark:text-slate-300 text-sm leading-relaxed">
-              S.G. & Associates is a sole proprietorship Chartered Accountancy firm registered with The Institute of Chartered Accountants of India (ICAI Firm Registration No. 100001W). Headed by Principal CA Saatvik Gupta (Membership No. 123456), the firm delivers statutory tax audit, corporate tax compliance, GST advisory, and business valuation services.
+              Anil Puneet and Associates is a sole proprietorship Chartered Accountancy firm registered with The Institute of Chartered Accountants of India (ICAI Firm Registration No. 016890N). Headed by Principal CA Puneet Gupta (Membership No. 059435), the firm delivers statutory tax audit, corporate tax compliance, GST advisory, and business valuation services.
             </p>
             <p className="text-slate-600 dark:text-slate-300 text-sm leading-relaxed">
               We maintain direct principal-led oversight over all audit files and tax computations. Unlike generalist accounting firms, our engagements are executed under standardized quality control frameworks in accordance with the Chartered Accountants Act, 1949 and relevant statutory rules.
@@ -75,7 +75,7 @@ export default function AboutPage() {
                 • Sole Proprietorship Practice
               </div>
               <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700">
-                • ICAI FRN: 100001W
+                • ICAI FRN: 016890N
               </div>
               <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700">
                 • DISA (ICAI) Qualified

@@ -32,7 +32,7 @@ export default function Footer() {
             <div className="text-xs text-slate-400 space-y-1 pt-2 border-t border-slate-800">
               <p><strong className="text-slate-200">Sole Proprietor:</strong> {siteConfig.principal.name} ({siteConfig.principal.qualification})</p>
               <p><strong className="text-slate-200">Membership No:</strong> {siteConfig.principal.membershipNo}</p>
-              <p><strong className="text-slate-200">Firm Registration No (FRN):</strong> 100001W</p>
+              <p><strong className="text-slate-200">Firm Registration No (FRN):</strong> 016890N</p>
             </div>
           </div>
 

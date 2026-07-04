@@ -145,7 +145,7 @@ export function Hero({
                       ICAI Membership & FRN
                     </div>
                     <div className="text-xs text-slate-500 dark:text-slate-400">
-                      FRN: 100001W | Mem No: 123456
+                      FRN: 016890N | Mem No: 059435
                     </div>
                   </div>
                 </div>
@@ -194,7 +194,7 @@ export function Hero({
                     Principal & Proprietor
                   </div>
                   <div className="text-sm font-bold mt-0.5">
-                    CA Saatvik Gupta, FCA, DISA
+                    CA Puneet Gupta, FCA, DISA
                   </div>
                 </div>
                 <div className="text-right">

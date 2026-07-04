@@ -4,7 +4,7 @@ export default function WhyChooseUs() {
   const pillars = [
     {
       title: 'Principal-Led Service Delivery',
-      description: 'Unlike multi-partner firms where work is delegated to junior teams, every audit report, tax return, and compliance filing is directly supervised and reviewed by Principal CA Saatvik Gupta.',
+      description: 'Unlike multi-partner firms where work is delegated to junior teams, every audit report, tax return, and compliance filing is directly supervised and reviewed by Principal CA Puneet Gupta.',
       badge: 'Direct Oversight'
     },
     {
@@ -32,7 +32,7 @@ export default function WhyChooseUs() {
             Firm Operating Ethos
           </h2>
           <p className="text-3xl font-extrabold text-slate-900 dark:text-white sm:text-4xl">
-            Why Organizations Partner With S.G. & Associates
+            Why Organizations Partner With Anil Puneet and Associates
           </p>
           <p className="text-base text-slate-600 dark:text-slate-300">
             A practice built on precision, technical expertise, and absolute statutory transparency.

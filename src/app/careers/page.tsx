@@ -5,8 +5,8 @@ import { constructMetadata } from '@/lib/metadata';
 import siteConfig from '@/lib/siteConfig';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Careers & Articleship Vacancies | S.G. & Associates',
-  description: 'CA Articleship training vacancies for CA Intermediate cleared students and semi-qualified CA positions under Principal CA Saatvik Gupta in Ahmedabad.',
+  title: 'Careers & Articleship Vacancies | Anil Puneet and Associates',
+  description: 'CA Articleship training vacancies for CA Intermediate cleared students and semi-qualified CA positions under Principal CA Puneet Gupta in Panchkula.',
   path: '/careers',
 });
 
@@ -52,7 +52,7 @@ export default function CareersPage() {
             Articleship & Career Vacancies
           </h1>
           <p className="text-lg text-slate-600 dark:text-slate-300">
-            Build your professional foundation under direct supervisorial mentorship of Principal CA Saatvik Gupta with hands-on exposure to audit and taxation.
+            Build your professional foundation under direct supervisorial mentorship of Principal CA Puneet Gupta with hands-on exposure to audit and taxation.
           </p>
         </div>
 
@@ -108,7 +108,7 @@ export default function CareersPage() {
                     <span className="px-3 py-1 rounded-full font-semibold bg-emerald-100 dark:bg-emerald-950 text-emerald-800 dark:text-emerald-300">
                       {v.openings}
                     </span>
-                    <span className="text-slate-500 dark:text-slate-400">Ahmedabad Office</span>
+                    <span className="text-slate-500 dark:text-slate-400">Panchkula Office</span>
                   </div>
 
                   <h3 className="text-2xl font-bold text-slate-900 dark:text-white">

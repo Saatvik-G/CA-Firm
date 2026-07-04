@@ -17,12 +17,12 @@ export interface FooterProps {
 export function Footer({
   id = "site-footer",
   firmName = "S.G. & ASSOCIATES",
-  frnNumber = "100001W",
-  principalName = "CA Saatvik Gupta (FCA, DISA)",
-  membershipNo = "123456",
-  address = "Suite 401, Business Tower, MG Road, Ahmedabad, Gujarat 380009",
+  frnNumber = "016890N",
+  principalName = "CA Puneet Gupta (FCA, DISA)",
+  membershipNo = "059435",
+  address = "Suite 401, Business Tower, MG Road, Panchkula, Haryana",
   phone = "+91 79 2658 9000",
-  email = "contact@sgassociates.in",
+  email = "gupta.puneetca@gmail.com",
   className = "",
 }: FooterProps) {
   const currentYear = new Date().getFullYear();

@@ -13,8 +13,8 @@ import FAQSection from '@/components/home/FAQSection';
 import CTABanner from '@/components/home/CTABanner';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Chartered Accountants in Ahmedabad | S.G. & Associates',
-  description: 'Independent Chartered Accountant sole proprietorship practice led by CA Saatvik Gupta (FCA, DISA). Specializing in corporate tax compliance, statutory audit, GST filing, and business valuation.',
+  title: 'Chartered Accountants in Panchkula | Anil Puneet and Associates',
+  description: 'Independent Chartered Accountant sole proprietorship practice led by CA Puneet Gupta (FCA, DISA). Specializing in corporate tax compliance, statutory audit, GST filing, and business valuation.',
   path: '/',
 });
 

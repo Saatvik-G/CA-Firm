@@ -1,13 +1,13 @@
 [
   {
-    "id": "ca-saatvik-gupta",
-    "name": "CA Saatvik Gupta",
+    "id": "ca-puneet-gupta",
+    "name": "CA Puneet Gupta",
     "designation": "Proprietor & Principal CA",
     "role": "Firm Principal & Practice Lead",
-    "qualification": "B.Com, FCA, DISA (ICAI)",
-    "membershipNo": "123456",
-    "experience": "14+ Years",
-    "bio": "CA Saatvik Gupta is the sole Proprietor and Principal CA of S.G. & Associates. Fellow Member of the Institute of Chartered Accountants of India (FCA) with a Information Systems Audit (DISA) qualification, he leads all statutory audit, tax litigation, GST advisory, and corporate structuring engagements.",
+    "qualification": "B.Com, CA",
+    "membershipNo": "059435",
+    "experience": "24+ Years",
+    "bio": "CA Puneet Gupta is the sole Proprietor and Principal CA of Anil Puneet and Associates. A Member of the Institute of Chartered Accountants of India (ICAI) with over 24 years of standing, he leads all statutory audit, tax litigation, GST advisory, and corporate structuring engagements.",
     "isPrincipal": true,
     "expertise": [
       "Corporate & Direct Tax Litigation",
@@ -15,8 +15,7 @@
       "GST Advisory & Annual Returns",
       "Business Valuation & Financial Structuring"
     ],
-    "email": "saatvik@sgassociates.in",
-    "linkedin": "https://www.linkedin.com/in/ca-saatvik-gupta"
+    "email": "gupta.puneetca@gmail.com"
   },
   {
     "id": "neha-sharma",
@@ -25,7 +24,7 @@
     "role": "Leads client bookkeeping, monthly GST reconciliation, and accounting supervision under the guidance of the Principal CA.",
     "qualification": "M.Com, Inter CA",
     "experience": "5+ Years",
-    "bio": "Neha oversees day-to-day corporate ledger maintenance, monthly GST reconciliation, and TDS compliance workflows under the supervision of Principal CA Saatvik Gupta.",
+    "bio": "Neha oversees day-to-day corporate ledger maintenance, monthly GST reconciliation, and TDS compliance workflows under the supervision of Principal CA Puneet Gupta.",
     "isPrincipal": false,
     "expertise": [
       "Corporate Bookkeeping & Ledger Audit",

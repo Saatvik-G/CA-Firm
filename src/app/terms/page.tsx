@@ -4,8 +4,8 @@ import { constructMetadata } from '@/lib/metadata';
 import siteConfig from '@/lib/siteConfig';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Terms of Use | S.G. & Associates',
-  description: 'Terms of website use and engagement conditions for S.G. & Associates, Chartered Accountants.',
+  title: 'Terms of Use | Anil Puneet and Associates',
+  description: 'Terms of website use and engagement conditions for Anil Puneet and Associates, Chartered Accountants.',
   path: '/terms',
 });
 
@@ -26,7 +26,7 @@ export default function TermsPage() {
         <div className="bg-white dark:bg-slate-900 rounded-3xl p-8 sm:p-12 border border-slate-200 dark:border-slate-800 shadow-sm space-y-6 text-sm text-slate-700 dark:text-slate-300 leading-relaxed">
           <h2 className="text-xl font-bold text-slate-900 dark:text-white">1. Informational Purpose</h2>
           <p>
-            This website is maintained by S.G. & Associates (Sole Proprietorship practice led by CA Saatvik Gupta, Membership No. 123456, FRN 100001W) strictly in compliance with ICAI website guidelines. Content provided herein is for general educational and informational purposes only.
+            This website is maintained by Anil Puneet and Associates (Sole Proprietorship practice led by CA Puneet Gupta, Membership No. 059435, FRN 016890N) strictly in compliance with ICAI website guidelines. Content provided herein is for general educational and informational purposes only.
           </p>
 
           <h2 className="text-xl font-bold text-slate-900 dark:text-white">2. No Solicitation or Advertisement</h2>
@@ -36,12 +36,12 @@ export default function TermsPage() {
 
           <h2 className="text-xl font-bold text-slate-900 dark:text-white">3. Professional Engagement Required</h2>
           <p>
-            Accessing this website or submitting an online contact form does not create a Chartered Accountant-client relationship. Formal professional engagement occurs only upon execution of an engagement letter signed by Principal CA Saatvik Gupta.
+            Accessing this website or submitting an online contact form does not create a Chartered Accountant-client relationship. Formal professional engagement occurs only upon execution of an engagement letter signed by Principal CA Puneet Gupta.
           </p>
 
           <h2 className="text-xl font-bold text-slate-900 dark:text-white">4. Intellectual Property</h2>
           <p>
-            All original technical articles, publications, checklists, and website designs are the property of S.G. & Associates. Unauthorized copying or redistribution without written attribution is prohibited.
+            All original technical articles, publications, checklists, and website designs are the property of Anil Puneet and Associates. Unauthorized copying or redistribution without written attribution is prohibited.
           </p>
         </div>
 

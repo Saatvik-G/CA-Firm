@@ -13,16 +13,16 @@ export interface PrincipalProfileProps {
 
 const defaultPrincipalInfo: PrincipalInfo = {
   id: "principal-sg",
-  name: "CA Saatvik Gupta",
+  name: "CA Puneet Gupta",
   title: "Sole Proprietor & Principal Chartered Accountant",
   membershipInfo: {
-    icaiMembershipNo: "123456",
-    firmRegistrationNo: "100001W",
+    icaiMembershipNo: "059435",
+    firmRegistrationNo: "016890N",
     fellowOrAssociate: "FCA",
     copStatus: "Active Certificate of Practice (COP)",
     yearOfEnrollment: "2012",
   },
-  bio: "CA Saatvik Gupta has over 14 years of extensive professional standing in corporate taxation, statutory auditing, GST restructuring, and cross-border financial advisory. A Fellow Member of the Institute of Chartered Accountants of India (ICAI) holding Information Systems Audit (DISA) credentials, he personally directs all complex advisory and audit mandates of the firm.",
+  bio: "CA Puneet Gupta has over 14 years of extensive professional standing in corporate taxation, statutory auditing, GST restructuring, and cross-border financial advisory. A Fellow Member of the Institute of Chartered Accountants of India (ICAI) holding Information Systems Audit (DISA) credentials, he personally directs all complex advisory and audit mandates of the firm.",
   qualifications: [
     { degree: "Fellow Chartered Accountant (FCA)", institution: "ICAI", year: "2012" },
     { degree: "Diploma in Information Systems Audit (DISA)", institution: "ICAI", year: "2015" },
@@ -36,7 +36,7 @@ const defaultPrincipalInfo: PrincipalInfo = {
     "Cross-Border Transfer Pricing & FEMA Remittance (15CA/15CB)",
     "Business Valuation & Mergers and Acquisitions (M&A)",
   ],
-  email: "contact@sgassociates.in",
+  email: "gupta.puneetca@gmail.com",
   linkedinUrl: "https://linkedin.com",
 };
 

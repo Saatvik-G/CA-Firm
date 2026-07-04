@@ -14,7 +14,7 @@ export default function CTABanner() {
           Require Independent Audit Assurance or Statutory Tax Advisory?
         </h2>
         <p className="text-base sm:text-lg text-slate-300 max-w-2xl mx-auto">
-          Get in touch with Principal CA Saatvik Gupta for corporate compliance reviews, tax planning, or audit engagements.
+          Get in touch with Principal CA Puneet Gupta for corporate compliance reviews, tax planning, or audit engagements.
         </p>
 
         <div className="pt-4 flex flex-col sm:flex-row justify-center gap-4">

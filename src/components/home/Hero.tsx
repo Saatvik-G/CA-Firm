@@ -26,7 +26,7 @@ export default function Hero() {
 
             {/* Subtitle / Tagline */}
             <p className="text-lg sm:text-xl text-slate-300 font-normal leading-relaxed max-w-2xl">
-              Led by <strong className="text-white">CA Saatvik Gupta (FCA, DISA)</strong>, S.G. & Associates delivers rigorous statutory audits, corporate tax compliance, GST filing, and business valuation tailored to regulatory standards.
+              Led by <strong className="text-white">CA Puneet Gupta (FCA, DISA)</strong>, Anil Puneet and Associates delivers rigorous statutory audits, corporate tax compliance, GST filing, and business valuation tailored to regulatory standards.
             </p>
 
             {/* Key Value Pill Indicators */}
@@ -76,7 +76,7 @@ export default function Hero() {
                   Firm Leadership & Credentials
                 </span>
                 <h2 className="text-2xl font-bold text-white mt-1">
-                  CA Saatvik Gupta
+                  CA Puneet Gupta
                 </h2>
                 <p className="text-sm text-slate-300">
                   Proprietor & Principal Chartered Accountant
@@ -86,7 +86,7 @@ export default function Hero() {
               <div className="space-y-3 text-sm">
                 <div className="flex justify-between py-1.5 border-b border-slate-700/50">
                   <span className="text-slate-400">ICAI Membership No:</span>
-                  <span className="font-semibold text-slate-200">123456 (FCA)</span>
+                  <span className="font-semibold text-slate-200">059435 (FCA)</span>
                 </div>
                 <div className="flex justify-between py-1.5 border-b border-slate-700/50">
                   <span className="text-slate-400">Qualifications:</span>
@@ -94,11 +94,11 @@ export default function Hero() {
                 </div>
                 <div className="flex justify-between py-1.5 border-b border-slate-700/50">
                   <span className="text-slate-400">Firm Reg. No (FRN):</span>
-                  <span className="font-semibold text-slate-200">100001W</span>
+                  <span className="font-semibold text-slate-200">016890N</span>
                 </div>
                 <div className="flex justify-between py-1.5">
                   <span className="text-slate-400">Primary Jurisdiction:</span>
-                  <span className="font-semibold text-slate-200">Ahmedabad, Gujarat</span>
+                  <span className="font-semibold text-slate-200">Panchkula, Gujarat</span>
                 </div>
               </div>
 

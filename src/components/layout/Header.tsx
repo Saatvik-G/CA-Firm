@@ -77,7 +77,7 @@ export interface HeaderProps {
 export function Header({
   id = "site-header",
   firmName = "S.G. & ASSOCIATES",
-  frnNumber = "FRN: 100001W",
+  frnNumber = "FRN: 016890N",
   className = "",
 }: HeaderProps) {
   const [activeDropdown, setActiveDropdown] = useState<string | null>(null);

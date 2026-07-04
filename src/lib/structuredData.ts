@@ -7,14 +7,14 @@ export function getOrganizationSchema() {
     '@type': 'AccountingService',
     '@id': `${siteUrl}/#organization`,
     name: siteConfig.firmName,
-    alternateName: 'S.G. & Associates, Chartered Accountants',
+    alternateName: 'Anil Puneet and Associates, Chartered Accountants',
     url: siteUrl,
     logo: `${siteUrl}/logo.png`,
     description: siteConfig.icaiDisclaimer,
     address: {
       '@type': 'PostalAddress',
       streetAddress: 'Suite 401, Business Tower, MG Road',
-      addressLocality: 'Ahmedabad',
+      addressLocality: 'Panchkula',
       addressRegion: 'Gujarat',
       postalCode: '380009',
       addressCountry: 'IN',
@@ -54,7 +54,7 @@ export function getLocalBusinessSchema() {
     address: {
       '@type': 'PostalAddress',
       streetAddress: 'Suite 401, Business Tower, MG Road',
-      addressLocality: 'Ahmedabad',
+      addressLocality: 'Panchkula',
       addressRegion: 'Gujarat',
       postalCode: '380009',
       addressCountry: 'IN',
@@ -103,7 +103,7 @@ export function getArticleSchema({
   description,
   url,
   datePublished,
-  authorName = 'CA Saatvik Gupta',
+  authorName = 'CA Puneet Gupta',
 }: {
   title: string;
   description: string;

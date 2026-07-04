@@ -5,8 +5,8 @@ import { getTeamMembers } from '@/lib/content';
 import siteConfig from '@/lib/siteConfig';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Principal & Practice Team | S.G. & Associates',
-  description: 'Meet Principal CA Saatvik Gupta (FCA, DISA) and the supervised audit and compliance staff at S.G. & Associates, Chartered Accountants.',
+  title: 'Principal & Practice Team | Anil Puneet and Associates',
+  description: 'Meet Principal CA Puneet Gupta (FCA, DISA) and the supervised audit and compliance staff at Anil Puneet and Associates, Chartered Accountants.',
   path: '/team',
 });
 
@@ -28,7 +28,7 @@ export default function TeamPage() {
             Principal & Supervised Team
           </h1>
           <p className="text-lg text-slate-600 dark:text-slate-300">
-            A sole proprietorship practice led directly by Proprietor CA Saatvik Gupta, supported by qualified accounting executives and Article Assistants.
+            A sole proprietorship practice led directly by Proprietor CA Puneet Gupta, supported by qualified accounting executives and Article Assistants.
           </p>
         </div>
 
@@ -61,7 +61,7 @@ export default function TeamPage() {
                   </div>
                   <div className="flex justify-between py-1.5 border-b border-slate-800">
                     <span className="text-slate-400">Firm Registration No:</span>
-                    <span className="font-semibold text-white">100001W</span>
+                    <span className="font-semibold text-white">016890N</span>
                   </div>
                   <div className="flex justify-between py-1.5 border-b border-slate-800">
                     <span className="text-slate-400">Post Qualification:</span>
@@ -112,7 +112,7 @@ export default function TeamPage() {
                   <strong className="block mb-1 text-blue-400 font-bold uppercase tracking-wide">
                     Supervisorial Notice
                   </strong>
-                  All statutory audit opinions, tax audit reports under Section 44AB, and valuation certificates are personally audited and signed by Principal CA Saatvik Gupta.
+                  All statutory audit opinions, tax audit reports under Section 44AB, and valuation certificates are personally audited and signed by Principal CA Puneet Gupta.
                 </div>
               </div>
 
@@ -176,7 +176,7 @@ export default function TeamPage() {
                 </div>
 
                 <div className="pt-4 mt-6 border-t border-slate-100 dark:border-slate-800 text-xs text-slate-400 italic">
-                  * All client work is directly reviewed and approved by Principal CA Saatvik Gupta.
+                  * All client work is directly reviewed and approved by Principal CA Puneet Gupta.
                 </div>
               </div>
             ))}

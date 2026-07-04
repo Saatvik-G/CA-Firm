@@ -5,8 +5,8 @@ import { getAllBlogPosts, getAllPublications, getAllTaxUpdates, getAllGSTUpdates
 import { constructMetadata } from '@/lib/metadata';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Knowledge Centre & Technical Tax Hub | S.G. & Associates',
-  description: 'Technical tax articles, CBDT circular alerts, CBIC GST notifications, whitepapers, and webinar archives published by S.G. & Associates.',
+  title: 'Knowledge Centre & Technical Tax Hub | Anil Puneet and Associates',
+  description: 'Technical tax articles, CBDT circular alerts, CBIC GST notifications, whitepapers, and webinar archives published by Anil Puneet and Associates.',
   path: '/knowledge',
 });
 
@@ -29,7 +29,7 @@ export default function KnowledgeCentrePage() {
             Knowledge Centre
           </h1>
           <p className="text-lg text-slate-600 dark:text-slate-300">
-            Technical tax analysis, statutory circular breakdowns, and compliance handbooks prepared by Principal CA Saatvik Gupta.
+            Technical tax analysis, statutory circular breakdowns, and compliance handbooks prepared by Principal CA Puneet Gupta.
           </p>
         </div>
 

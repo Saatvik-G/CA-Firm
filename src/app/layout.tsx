@@ -14,8 +14,8 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = constructMetadata({
-  title: "S.G. & Associates | Chartered Accountants Ahmedabad",
-  description: "Sole proprietorship Chartered Accountancy firm led by CA Saatvik Gupta (FCA, DISA). Specializing in direct tax litigation, statutory audit, GST compliance, and corporate financial advisory.",
+  title: "Anil Puneet and Associates | Chartered Accountants Panchkula",
+  description: "Sole proprietorship Chartered Accountancy firm led by CA Puneet Gupta (FCA, DISA). Specializing in direct tax litigation, statutory audit, GST compliance, and corporate financial advisory.",
 });
 
 export default function RootLayout({

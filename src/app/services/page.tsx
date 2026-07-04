@@ -41,7 +41,7 @@ export default function ServicesPage() {
             Services & Practice Areas
           </h1>
           <p className="text-lg text-slate-600 dark:text-slate-300">
-            Comprehensive tax compliance, independent audit assurance, and specialized financial advisory supervised by Principal CA Saatvik Gupta.
+            Comprehensive tax compliance, independent audit assurance, and specialized financial advisory supervised by Principal CA Puneet Gupta.
           </p>
         </div>
 

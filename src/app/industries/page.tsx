@@ -5,7 +5,7 @@ import { getAllIndustries } from '@/lib/content';
 import { constructMetadata } from '@/lib/metadata';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'Industries Served & Sector Specialization | S.G. & Associates',
+  title: 'Industries Served & Sector Specialization | Anil Puneet and Associates',
   description: 'Specialized Chartered Accountancy services tailored for technology startups, healthcare, manufacturing, real estate, export-import, and retail enterprise.',
   path: '/industries',
 });

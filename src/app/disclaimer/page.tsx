@@ -4,8 +4,8 @@ import { constructMetadata } from '@/lib/metadata';
 import siteConfig from '@/lib/siteConfig';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'ICAI Disclaimer | S.G. & Associates',
-  description: 'Mandatory ICAI regulatory disclaimer for S.G. & Associates, Chartered Accountants.',
+  title: 'ICAI Disclaimer | Anil Puneet and Associates',
+  description: 'Mandatory ICAI regulatory disclaimer for Anil Puneet and Associates, Chartered Accountants.',
   path: '/disclaimer',
 });
 
@@ -40,7 +40,7 @@ export default function DisclaimerPage() {
           </ul>
 
           <div className="pt-4 border-t border-slate-100 dark:border-slate-800 text-xs text-slate-500">
-            Proprietor: CA Saatvik Gupta (FCA, DISA) • ICAI Mem #123456 • FRN 100001W
+            Proprietor: CA Puneet Gupta (FCA, DISA) • ICAI Mem #059435 • FRN 016890N
           </div>
         </div>
 

@@ -5,7 +5,7 @@ import { getAllGSTUpdates } from '@/lib/content';
 import { constructMetadata } from '@/lib/metadata';
 
 export const metadata: Metadata = constructMetadata({
-  title: 'GST Updates & CBIC Notifications | S.G. & Associates',
+  title: 'GST Updates & CBIC Notifications | Anil Puneet and Associates',
   description: 'Recent Indirect Tax alerts, CBIC notifications, GSTR-3B filing rules, e-way bill blocking updates, and GST amnesty updates.',
   path: '/knowledge/gst-updates',
 });

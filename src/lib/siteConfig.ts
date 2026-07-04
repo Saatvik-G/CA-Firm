@@ -42,23 +42,23 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  firmName: "S.G. & Associates",
+  firmName: "Anil Puneet and Associates",
   subtitle: "Chartered Accountants",
   tagline: "Integrity. Precision. Excellence.",
-  registration: "ICAI Firm Registration No. 100001W",
+  registration: "ICAI Firm Registration No. 016890N",
   principal: {
-    name: "CA Saatvik Gupta",
+    name: "CA Puneet Gupta",
     designation: "Proprietor & Principal CA",
-    qualification: "B.Com, FCA, DISA (ICAI)",
-    membershipNo: "ICAI Mem. No. 123456",
-    experience: "14+ Years",
-    bio: "CA Saatvik Gupta is the Proprietor and Principal CA at S.G. & Associates. With over 14 years of professional practice in corporate tax compliance, statutory audits, GST advisory, and business structure planning, he oversees all professional engagements in accordance with ICAI standards and statutory guidelines."
+    qualification: "B.Com, CA",
+    membershipNo: "ICAI Mem. No. 059435",
+    experience: "24+ Years",
+    bio: "CA Puneet Gupta is the Proprietor and Principal CA at Anil Puneet and Associates. With over 24 years of standing in professional practice, he specializes in corporate taxation, statutory auditing, GST advisory, and business strategy counseling, supervising all client engagements with strict technical precision and regulatory adherence."
   },
-  establishedYear: "2012",
+  establishedYear: "2000",
   contact: {
-    address: "Suite 401, Business Tower, MG Road, Ahmedabad, Gujarat 380009",
-    phone: "+91 79 2658 9000",
-    email: "contact@sgassociates.in",
+    address: "SCF 57, Level 2, Sector 8, Panchkula, Haryana",
+    phone: "+91 9815763749",
+    email: "gupta.puneetca@gmail.com",
     workingHours: "Mon - Sat: 9:30 AM - 6:30 PM IST"
   },
   social: {

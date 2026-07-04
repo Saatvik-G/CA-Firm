@@ -15,7 +15,7 @@ export default function OurProcess() {
     {
       step: '03',
       title: 'Principal Review & Audit Sign-Off',
-      description: 'Principal CA Saatvik Gupta performs rigorous quality review of all audit reports, tax return drafts, and valuation models prior to final sign-off.'
+      description: 'Principal CA Puneet Gupta performs rigorous quality review of all audit reports, tax return drafts, and valuation models prior to final sign-off.'
     },
     {
       step: '04',

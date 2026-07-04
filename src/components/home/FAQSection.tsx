@@ -7,8 +7,8 @@ export default function FAQSection() {
 
   const faqs = [
     {
-      question: 'Is S.G. & Associates a sole proprietorship or a multi-partner firm?',
-      answer: 'S.G. & Associates is a registered sole proprietorship firm headed by Proprietor & Principal CA Saatvik Gupta (FCA, DISA). All engagements, audit certifications, and tax filings are personally reviewed and signed off by the Principal CA in strict adherence to ICAI guidelines.'
+      question: 'Is Anil Puneet and Associates a sole proprietorship or a multi-partner firm?',
+      answer: 'Anil Puneet and Associates is a registered sole proprietorship firm headed by Proprietor & Principal CA Puneet Gupta (FCA, DISA). All engagements, audit certifications, and tax filings are personally reviewed and signed off by the Principal CA in strict adherence to ICAI guidelines.'
     },
     {
       question: 'What are the statutory audit threshold limits for FY 2024-25?',

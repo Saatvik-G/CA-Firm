@@ -36,7 +36,7 @@ export default function PrincipalProfile() {
                 </div>
                 <div className="flex justify-between py-1 border-b border-slate-800">
                   <span className="text-slate-400">Firm Registration No:</span>
-                  <span className="font-semibold text-white">100001W</span>
+                  <span className="font-semibold text-white">016890N</span>
                 </div>
                 <div className="flex justify-between py-1 border-b border-slate-800">
                   <span className="text-slate-400">Post-Qualification Cert:</span>
