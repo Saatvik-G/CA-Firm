@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import siteConfig from '@/lib/siteConfig';
 import { useTheme } from './ThemeProvider';
-import { CALogoBadge } from '@/components/ui/CALogo';
+import { CALogo } from '@/components/ui/CALogo';
 
 export default function Header() {
   const pathname = usePathname();
@@ -87,7 +87,7 @@ export default function Header() {
           
           {/* Logo & Branding */}
           <Link href="/" className="flex items-center gap-3 group">
-            <CALogoBadge size="md" variant="blue" />
+            <CALogo height={38} className="text-blue-950 dark:text-white transition-transform group-hover:scale-105" />
             <div>
               <div className="font-bold text-lg text-slate-900 dark:text-white leading-tight group-hover:text-blue-700 dark:group-hover:text-blue-400 transition-colors">
                 {siteConfig.firmName}

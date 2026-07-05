@@ -4,7 +4,7 @@ import React, { useState } from "react";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
 import { ChevronDownIcon, CloseIcon, PhoneIcon } from "@/components/ui/Icons";
-import { CALogoBadge } from "@/components/ui/CALogo";
+import { CALogo } from "@/components/ui/CALogo";
 import { Button } from "@/components/ui/Button";
 import { NavDropdownGroup, NavItem } from "@/lib/types";
 
@@ -55,7 +55,7 @@ export function MobileNav({
               {/* Header */}
               <div className="flex items-center justify-between pb-6 border-b border-slate-100 dark:border-slate-800">
                 <div className="flex items-center gap-3">
-                  <CALogoBadge size="sm" variant="blue" />
+                  <CALogo height={32} className="text-blue-950 dark:text-white" />
                   <div>
                     <span className="text-sm font-extrabold tracking-tight text-slate-900 dark:text-white block">
                       Anil Puneet and Associates

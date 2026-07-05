@@ -4,43 +4,51 @@ import React from "react";
 
 export interface CALogoProps extends React.SVGProps<SVGSVGElement> {
   size?: number | string;
+  height?: number | string;
   className?: string;
   color?: string;
   checkColor?: string;
+  isDark?: boolean;
 }
 
 export function CALogo({
-  size = 32,
+  size,
+  height = 38,
   className = "",
-  color = "#0B3C5D",
-  checkColor = "#73B526",
+  color,
+  checkColor = "#7CB342",
+  isDark = false,
   ...props
 }: CALogoProps) {
+  const actualHeight = size || height;
+  const actualWidth = typeof actualHeight === "number" ? actualHeight * 1.35 : actualHeight;
+  const strokeColor = color || (isDark ? "#FFFFFF" : "currentColor");
+
   return (
     <svg
-      width={size}
-      height={size}
-      viewBox="0 0 350 280"
+      height={actualHeight}
+      width={actualWidth}
+      viewBox="0 0 160 115"
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
-      className={className}
+      className={`inline-block shrink-0 ${className}`}
       {...props}
     >
-      {/* Sweeping CA Navy Blue Body */}
-      <g fill={color}>
-        {/* The 'C' curve sweeping into 'A' left leg */}
-        <path d="M 165 42 C 120 42, 60 70, 50 140 C 40 210, 100 248, 155 248 C 195 248, 222 225, 235 195 L 210 185 C 198 208, 178 224, 150 224 C 115 224, 76 195, 82 140 C 88 88, 130 66, 168 66 C 185 66, 202 72, 215 84 L 232 64 C 214 48, 192 42, 165 42 Z" />
+      {/* ICAI CA Emblem letter C & A */}
+      <g fill={strokeColor}>
+        {/* Sweeping C */}
+        <path d="M 72 18 C 50 18, 25 32, 21 60 C 17 88, 42 102, 68 102 C 86 102, 98 92, 105 80 L 92 73 C 87 83, 78 91, 66 91 C 48 91, 33 79, 36 60 C 39 39, 57 29, 72 29 C 80 29, 88 32, 93 37 L 102 27 C 94 20, 84 18, 72 18 Z" />
         
-        {/* 'A' Apex & Left/Right Structure */}
-        <path d="M 215 35 L 155 240 L 180 240 L 225 90 L 270 240 L 295 240 L 228 35 Z" />
+        {/* Letter A Structure */}
+        <path d="M 96 15 L 68 102 L 80 102 L 98 42 L 116 102 L 128 102 L 102 15 Z" />
         
-        {/* Parallel accent line on right leg of A */}
-        <path d="M 235 75 L 285 240 L 295 240 L 243 75 Z" />
+        {/* Accent Parallel Line on Right Leg of A */}
+        <path d="M 106 32 L 123 102 L 128 102 L 110 32 Z" />
       </g>
 
-      {/* Signature Green Checkmark Tick */}
+      {/* Signature ICAI Green Checkmark */}
       <path
-        d="M 195 190 L 215 250 L 228 250 L 315 118 L 290 118 L 218 225 L 202 180 Z"
+        d="M 84 76 L 96 104 L 102 104 L 144 44 L 131 44 L 97 93 L 88 74 Z"
         fill={checkColor}
       />
     </svg>
@@ -49,43 +57,25 @@ export function CALogo({
 
 export interface CALogoBadgeProps {
   size?: "sm" | "md" | "lg" | "xl";
-  variant?: "dark" | "light" | "blue" | "transparent";
   className?: string;
+  isDark?: boolean;
 }
 
 export function CALogoBadge({
   size = "md",
-  variant = "blue",
   className = "",
+  isDark = false,
 }: CALogoBadgeProps) {
-  const sizeClasses = {
-    sm: "w-8 h-8 rounded-lg p-1",
-    md: "w-10 h-10 rounded-xl p-1.5",
-    lg: "w-12 h-12 rounded-xl p-2",
-    xl: "w-24 h-24 rounded-2xl p-4",
+  const heights = {
+    sm: 28,
+    md: 36,
+    lg: 44,
+    xl: 64,
   };
-
-  const svgSizes = {
-    sm: 22,
-    md: 28,
-    lg: 34,
-    xl: 68,
-  };
-
-  const bgClasses = {
-    blue: "bg-blue-900 border border-blue-700/60 shadow-md",
-    dark: "bg-slate-900 border border-slate-800 shadow-md",
-    light: "bg-white border border-slate-200 shadow-sm",
-    transparent: "",
-  };
-
-  const logoColor = variant === "light" ? "#0F3A5D" : "#FFFFFF";
 
   return (
-    <div
-      className={`inline-flex items-center justify-center transition-transform hover:scale-105 ${sizeClasses[size]} ${bgClasses[variant]} ${className}`}
-    >
-      <CALogo size={svgSizes[size]} color={logoColor} checkColor="#7CB342" />
+    <div className={`inline-flex items-center justify-center ${className}`}>
+      <CALogo height={heights[size]} isDark={isDark} />
     </div>
   );
 }

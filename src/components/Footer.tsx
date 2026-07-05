@@ -1,7 +1,7 @@
 import React from 'react';
 import Link from 'next/link';
 import siteConfig from '@/lib/siteConfig';
-import { CALogoBadge } from '@/components/ui/CALogo';
+import { CALogo } from '@/components/ui/CALogo';
 
 export default function Footer() {
   return (
@@ -13,7 +13,7 @@ export default function Footer() {
           {/* Column 1: Firm Overview */}
           <div className="lg:col-span-2 space-y-4">
             <div className="flex items-center gap-3">
-              <CALogoBadge size="md" variant="blue" />
+              <CALogo height={38} className="text-white" />
               <div>
                 <div className="font-bold text-lg text-white">
                   {siteConfig.firmName}

@@ -7,7 +7,7 @@ import { ThemeToggle } from "@/components/ui/ThemeToggle";
 import { Button } from "@/components/ui/Button";
 import { ChevronDownIcon, MenuIcon, ShieldCheckIcon } from "@/components/ui/Icons";
 import { MobileNav } from "@/components/layout/MobileNav";
-import { CALogoBadge } from "@/components/ui/CALogo";
+import { CALogo } from "@/components/ui/CALogo";
 import { NavDropdownGroup, NavItem } from "@/lib/types";
 
 const defaultServicesNav: NavDropdownGroup = {
@@ -109,7 +109,7 @@ export function Header({
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-18 flex items-center justify-between">
           {/* Logo Brand */}
           <Link id={`${id}-logo`} href="/" className="flex items-center gap-3 group">
-            <CALogoBadge size="md" variant="blue" />
+            <CALogo height={38} className="text-blue-950 dark:text-white transition-transform group-hover:scale-105" />
             <div>
               <div className="font-extrabold tracking-tight text-slate-900 dark:text-white text-base md:text-lg group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
                 {firmName}
