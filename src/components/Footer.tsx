@@ -13,7 +13,7 @@ export default function Footer() {
           {/* Column 1: Firm Overview */}
           <div className="lg:col-span-2 space-y-4">
             <div className="flex items-center gap-3">
-              <CALogo height={44} showIndiaText={true} className="text-white" />
+              <CALogo height={48} />
               <div>
                 <div className="font-bold text-lg text-white">
                   {siteConfig.firmName}
