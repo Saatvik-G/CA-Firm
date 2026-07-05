@@ -101,15 +101,13 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               {post.title}
             </h1>
 
-            <div className="flex items-center gap-3 pt-2 border-t border-slate-100 dark:border-slate-800">
               <div className="w-10 h-10 rounded-full bg-blue-900 text-white flex items-center justify-center font-bold text-sm">
-                SG
+                CA
               </div>
               <div>
                 <div className="text-sm font-bold text-slate-900 dark:text-white">{post.author}</div>
-                <div className="text-xs text-slate-500 dark:text-slate-400">Senior Partner & Managing CA (FCA)</div>
+                <div className="text-xs text-slate-500 dark:text-slate-400">Senior Partner & Managing CA</div>
               </div>
-            </div>
           </div>
 
           {/* Formatted Article Body */}

@@ -12,14 +12,14 @@ export interface TrustIndicatorsProps {
 const defaultStats = [
   {
     id: "stat-years",
-    value: "25+",
+    value: "26+",
     label: "Years in Practice",
-    subtext: "Continuous professional standing under ICAI standards",
+    subtext: "Continuous professional standing under ICAI standards since 2000",
     icon: <AwardIcon size={24} />,
   },
   {
     id: "stat-clients",
-    value: "500+",
+    value: "50+",
     label: "Corporate & SME Engagements",
     subtext: "Audited & advised across diverse industrial sectors",
     icon: <BuildingIcon size={24} />,

@@ -14,7 +14,7 @@ export default function PrincipalProfile() {
             {/* Left Column: Principal Credentials */}
             <div className="lg:col-span-5 space-y-6">
               <div className="w-24 h-24 rounded-2xl bg-blue-700 text-white flex items-center justify-center font-bold text-3xl shadow-lg border-2 border-blue-400">
-                SG
+                CA
               </div>
 
               <div>

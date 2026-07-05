@@ -13,7 +13,7 @@ export default function Footer() {
           <div className="lg:col-span-2 space-y-4">
             <div className="flex items-center gap-3">
               <div className="w-10 h-10 bg-blue-700 text-white flex items-center justify-center font-bold text-lg rounded-md">
-                SG
+                CA
               </div>
               <div>
                 <div className="font-bold text-lg text-white">

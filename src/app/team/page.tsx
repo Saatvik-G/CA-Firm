@@ -39,7 +39,7 @@ export default function TeamPage() {
               
               <div className="lg:col-span-5 space-y-6">
                 <div className="w-28 h-28 rounded-2xl bg-blue-700 text-white flex items-center justify-center font-bold text-4xl shadow-lg border-2 border-blue-400">
-                  SG
+                  CA
                 </div>
 
                 <div>

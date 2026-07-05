@@ -76,7 +76,7 @@ export interface HeaderProps {
 
 export function Header({
   id = "site-header",
-  firmName = "S.G. & ASSOCIATES",
+  firmName = "Anil Puneet and Associates",
   frnNumber = "FRN: 016890N",
   className = "",
 }: HeaderProps) {

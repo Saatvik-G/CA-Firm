@@ -87,7 +87,7 @@ export default function Header() {
           {/* Logo & Branding */}
           <Link href="/" className="flex items-center gap-3 group">
             <div className="w-11 h-11 bg-blue-900 dark:bg-blue-800 text-white flex items-center justify-center font-bold text-xl rounded-md shadow-sm border border-blue-700">
-              SG
+              CA
             </div>
             <div>
               <div className="font-bold text-lg text-slate-900 dark:text-white leading-tight group-hover:text-blue-700 dark:group-hover:text-blue-400 transition-colors">
