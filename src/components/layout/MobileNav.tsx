@@ -3,7 +3,8 @@
 import React, { useState } from "react";
 import Link from "next/link";
 import { motion, AnimatePresence } from "framer-motion";
-import { CloseIcon, ChevronDownIcon, PhoneIcon } from "@/components/ui/Icons";
+import { ChevronDownIcon, CloseIcon, PhoneIcon } from "@/components/ui/Icons";
+import { CALogoBadge } from "@/components/ui/CALogo";
 import { Button } from "@/components/ui/Button";
 import { NavDropdownGroup, NavItem } from "@/lib/types";
 
@@ -53,13 +54,16 @@ export function MobileNav({
             <div>
               {/* Header */}
               <div className="flex items-center justify-between pb-6 border-b border-slate-100 dark:border-slate-800">
-                <div>
-                  <span className="text-xl font-bold tracking-tight text-slate-900 dark:text-white block">
-                    CA Firm
-                  </span>
-                  <span className="text-[10px] uppercase font-semibold text-blue-600 dark:text-blue-400 tracking-wider">
-                    Chartered Accountants
-                  </span>
+                <div className="flex items-center gap-3">
+                  <CALogoBadge size="sm" variant="blue" />
+                  <div>
+                    <span className="text-sm font-extrabold tracking-tight text-slate-900 dark:text-white block">
+                      Anil Puneet and Associates
+                    </span>
+                    <span className="text-[10px] uppercase font-semibold text-blue-600 dark:text-blue-400 tracking-wider">
+                      Chartered Accountants
+                    </span>
+                  </div>
                 </div>
                 <button
                   id={`${id}-close-btn`}

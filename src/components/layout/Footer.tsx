@@ -1,6 +1,7 @@
 import React from "react";
 import Link from "next/link";
 import { MailIcon, MapPinIcon, PhoneIcon, ShieldCheckIcon } from "@/components/ui/Icons";
+import { CALogoBadge } from "@/components/ui/CALogo";
 
 export interface FooterProps {
   id?: string;
@@ -37,9 +38,7 @@ export function Footer({
           {/* Column 1: Firm Overview & Credentials */}
           <div className="lg:col-span-2 space-y-4">
             <div className="flex items-center gap-3">
-              <div className="w-9 h-9 rounded-lg bg-blue-600 text-white flex items-center justify-center font-bold text-base">
-                CA
-              </div>
+              <CALogoBadge size="md" variant="blue" />
               <div>
                 <div className="font-extrabold text-white text-lg tracking-tight">
                   {firmName}
