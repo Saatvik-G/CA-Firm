@@ -57,7 +57,7 @@ export function ServicePageTemplate({
                 <ArrowRightIcon size={18} />
               </a>
               <span className="text-xs text-slate-400">
-                Supervised by FCA Principal
+                Supervised by Principal CA
               </span>
             </div>
           </div>

@@ -207,7 +207,7 @@ export default function ContactPage() {
 
                 <div>
                   <strong className="text-white block uppercase tracking-wider text-[11px] mb-1">Sole Proprietor:</strong>
-                  <p>CA Puneet Gupta (FCA, DISA) • ICAI Mem #059435</p>
+                  <p>CA Puneet Gupta (FCA) • ICAI Mem #059435</p>
                 </div>
               </div>
 

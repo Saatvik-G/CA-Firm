@@ -78,7 +78,7 @@ export interface Qualification {
 export interface MembershipInfo {
   icaiMembershipNo: string;
   firmRegistrationNo: string;
-  fellowOrAssociate: 'FCA' | 'ACA';
+  fellowOrAssociate: string;
   copStatus: string;
   yearOfEnrollment: string;
 }

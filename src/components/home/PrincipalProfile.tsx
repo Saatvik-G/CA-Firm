@@ -40,7 +40,7 @@ export default function PrincipalProfile() {
                 </div>
                 <div className="flex justify-between py-1 border-b border-slate-800">
                   <span className="text-slate-400">Post-Qualification Cert:</span>
-                  <span className="font-semibold text-white">DISA (Information Systems Audit)</span>
+                  <span className="font-semibold text-white">Chartered Accountant</span>
                 </div>
                 <div className="flex justify-between py-1">
                   <span className="text-slate-400">Practice Experience:</span>

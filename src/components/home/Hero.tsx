@@ -26,7 +26,7 @@ export default function Hero() {
 
             {/* Subtitle / Tagline */}
             <p className="text-lg sm:text-xl text-slate-300 font-normal leading-relaxed max-w-2xl">
-              Led by <strong className="text-white">CA Puneet Gupta (FCA, DISA)</strong>, Anil Puneet and Associates delivers rigorous statutory audits, corporate tax compliance, GST filing, and business valuation tailored to regulatory standards.
+              Led by <strong className="text-white">CA Puneet Gupta (FCA)</strong>, Anil Puneet and Associates delivers rigorous statutory audits, corporate tax compliance, GST filing, and business valuation tailored to regulatory standards.
             </p>
 
             {/* Key Value Pill Indicators */}
@@ -86,11 +86,11 @@ export default function Hero() {
               <div className="space-y-3 text-sm">
                 <div className="flex justify-between py-1.5 border-b border-slate-700/50">
                   <span className="text-slate-400">ICAI Membership No:</span>
-                  <span className="font-semibold text-slate-200">059435 (FCA)</span>
+                  <span className="font-semibold text-slate-200">059435</span>
                 </div>
                 <div className="flex justify-between py-1.5 border-b border-slate-700/50">
                   <span className="text-slate-400">Qualifications:</span>
-                  <span className="font-semibold text-slate-200">B.Com, FCA, DISA (ICAI)</span>
+                  <span className="font-semibold text-slate-200">B.Com, CA</span>
                 </div>
                 <div className="flex justify-between py-1.5 border-b border-slate-700/50">
                   <span className="text-slate-400">Firm Reg. No (FRN):</span>
@@ -98,7 +98,7 @@ export default function Hero() {
                 </div>
                 <div className="flex justify-between py-1.5">
                   <span className="text-slate-400">Primary Jurisdiction:</span>
-                  <span className="font-semibold text-slate-200">Panchkula, Gujarat</span>
+                  <span className="font-semibold text-slate-200">Panchkula, Haryana</span>
                 </div>
               </div>
 

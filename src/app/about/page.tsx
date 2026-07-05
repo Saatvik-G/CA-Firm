@@ -20,8 +20,8 @@ export default function AboutPage() {
     },
     {
       year: '2015',
-      title: 'DISA Qualification & Systems Audit Expansion',
-      description: 'Principal CA Puneet Gupta acquired the DISA post-qualification qualification from ICAI, expanding practice into Information Systems Audit and IT Controls.'
+      title: 'Practice Expansion & Corporate Taxation',
+      description: 'Principal CA Puneet Gupta expanded the practice into comprehensive statutory audits, corporate tax litigation, and GST compliance.'
     },
     {
       year: '2017',
@@ -36,7 +36,7 @@ export default function AboutPage() {
     {
       year: 'Present',
       title: 'Continued Practice Excellence',
-      description: 'Managing end-to-end statutory audits, valuation reports under Rule 11UA, and corporate tax compliance across Gujarat and pan-India clients.'
+      description: 'Managing end-to-end statutory audits, valuation reports under Rule 11UA, and corporate tax compliance across Haryana and pan-India clients.'
     }
   ];
 
@@ -78,7 +78,7 @@ export default function AboutPage() {
                 • ICAI FRN: 016890N
               </div>
               <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700">
-                • DISA (ICAI) Qualified
+                • ICAI Qualified
               </div>
               <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700">
                 • 14+ Years Practice Track Record
@@ -95,7 +95,7 @@ export default function AboutPage() {
             <p className="text-xs text-slate-300 leading-relaxed">{p.bio}</p>
             
             <div className="pt-4 border-t border-slate-800 text-xs text-slate-400 space-y-1">
-              <p><strong>Membership:</strong> {p.membershipNo} (Fellow Member)</p>
+              <p><strong>Membership:</strong> {p.membershipNo} (Member)</p>
               <p><strong>Email:</strong> {siteConfig.contact.email}</p>
             </div>
           </div>

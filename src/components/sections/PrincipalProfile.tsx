@@ -18,16 +18,14 @@ const defaultPrincipalInfo: PrincipalInfo = {
   membershipInfo: {
     icaiMembershipNo: "059435",
     firmRegistrationNo: "016890N",
-    fellowOrAssociate: "FCA",
+    fellowOrAssociate: "CA",
     copStatus: "Active Certificate of Practice (COP)",
-    yearOfEnrollment: "2012",
+    yearOfEnrollment: "2000",
   },
-  bio: "CA Puneet Gupta has over 14 years of extensive professional standing in corporate taxation, statutory auditing, GST restructuring, and cross-border financial advisory. A Fellow Member of the Institute of Chartered Accountants of India (ICAI) holding Information Systems Audit (DISA) credentials, he personally directs all complex advisory and audit mandates of the firm.",
+  bio: "CA Puneet Gupta has over 24 years of extensive professional standing in corporate taxation, statutory auditing, GST restructuring, and financial advisory. A Member of the Institute of Chartered Accountants of India (ICAI), he personally directs all complex advisory and audit mandates of the firm.",
   qualifications: [
-    { degree: "Fellow Chartered Accountant (FCA)", institution: "ICAI", year: "2012" },
-    { degree: "Diploma in Information Systems Audit (DISA)", institution: "ICAI", year: "2015" },
-    { degree: "Bachelor of Commerce (B.Com)", institution: "Gujarat University", year: "2009" },
-    { degree: "Certificate in International Taxation", institution: "ICAI", year: "2018" },
+    { degree: "Bachelor of Commerce (B.Com)", institution: "Panjab University", year: "1997" },
+    { degree: "Chartered Accountant (CA)", institution: "ICAI", year: "2000" },
   ],
   specializations: [
     "CBDT & Income Tax Appellate Tribunal (ITAT) Appeals",
@@ -71,7 +69,7 @@ export function PrincipalProfile({
                     {principal.name}
                   </h3>
                   <div className="text-xs font-semibold text-blue-400">
-                    {principal.membershipInfo.fellowOrAssociate} | DISA (ICAI)
+                    Chartered Accountant (CA)
                   </div>
                   <div className="text-[11px] text-slate-300">
                     {principal.title}

@@ -6,7 +6,7 @@ import siteConfig from '@/lib/siteConfig';
 
 export const metadata: Metadata = constructMetadata({
   title: 'Principal & Practice Team | Anil Puneet and Associates',
-  description: 'Meet Principal CA Puneet Gupta (FCA, DISA) and the supervised audit and compliance staff at Anil Puneet and Associates, Chartered Accountants.',
+  description: 'Meet Principal CA Puneet Gupta (FCA) and the supervised audit and compliance staff at Anil Puneet and Associates, Chartered Accountants.',
   path: '/team',
 });
 
@@ -65,7 +65,7 @@ export default function TeamPage() {
                   </div>
                   <div className="flex justify-between py-1.5 border-b border-slate-800">
                     <span className="text-slate-400">Post Qualification:</span>
-                    <span className="font-semibold text-white">DISA (Information Systems Audit)</span>
+                    <span className="font-semibold text-white">Chartered Accountant</span>
                   </div>
                   <div className="flex justify-between py-1.5">
                     <span className="text-slate-400">Total Practice Experience:</span>

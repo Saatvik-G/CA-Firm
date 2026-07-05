@@ -169,7 +169,7 @@ export function BlogPostTemplate({
                   {post.author}
                 </h4>
                 <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">
-                  Fellow Chartered Accountant (FCA, DISA) with 25+ years in corporate tax litigation, GST advisory, and statutory auditing.
+                  Chartered Accountant with 25+ years in corporate tax litigation, GST advisory, and statutory auditing.
                 </p>
                 <a
                   href="/about"
