@@ -38,7 +38,7 @@ export function Footer({
           {/* Column 1: Firm Overview & Credentials */}
           <div className="lg:col-span-2 space-y-4">
             <div className="flex items-center gap-3">
-              <CALogo height={38} className="text-white" />
+              <CALogo height={44} showIndiaText={true} className="text-white" />
               <div>
                 <div className="font-extrabold text-white text-lg tracking-tight">
                   {firmName}
