@@ -28,11 +28,11 @@ export default function TeamPage() {
             Principal & Supervised Team
           </h1>
           <p className="text-lg text-slate-600 dark:text-slate-300">
-            A sole proprietorship practice led directly by Proprietor CA Puneet Gupta, supported by qualified accounting executives and Article Assistants.
+            A Partnership Firm led directly by Senior Partner CA Puneet Gupta, supported by qualified accounting executives and Article Assistants.
           </p>
         </div>
 
-        {/* Featured Proprietor CA Card */}
+        {/* Featured Senior Partner CA Card */}
         {principal && (
           <div className="bg-slate-900 text-white rounded-3xl p-8 sm:p-12 border border-slate-800 shadow-xl overflow-hidden">
             <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 items-center">
@@ -44,7 +44,7 @@ export default function TeamPage() {
 
                 <div>
                   <span className="text-xs uppercase font-bold text-blue-400 tracking-wider">
-                    Sole Proprietor & Practice Lead
+                    Sole Senior Partner & Practice Lead
                   </span>
                   <h2 className="text-3xl font-black text-white mt-1">
                     {principal.name}

@@ -21,6 +21,7 @@ export interface SiteConfig {
   establishedYear: string;
   contact: {
     address: string;
+    branchAddress?: string;
     phone: string;
     email: string;
     workingHours: string;
@@ -48,15 +49,16 @@ export const siteConfig: SiteConfig = {
   registration: "ICAI Firm Registration No. 016890N",
   principal: {
     name: "CA Puneet Gupta",
-    designation: "Proprietor & Principal CA",
+    designation: "Senior Partner & Managing CA",
     qualification: "B.Com, CA",
-    membershipNo: "ICAI Mem. No. 059435",
-    experience: "24+ Years",
-    bio: "CA Puneet Gupta is the Proprietor and Principal CA at Anil Puneet and Associates. With over 24 years of standing in professional practice, he specializes in corporate taxation, statutory auditing, GST advisory, and business strategy counseling, supervising all client engagements with strict technical precision and regulatory adherence."
+    membershipNo: "ICAI Mem. No. 095435",
+    experience: "26+ Years",
+    bio: "CA Puneet Gupta is Senior Partner at Anil Puneet and Associates, a Chartered Accountancy Partnership Firm established in 2000. With 26 years of standing in professional practice, he specializes in corporate taxation, statutory auditing, GST advisory, and financial advisory across the Head Office in Panchkula and Branch Office in New Delhi."
   },
   establishedYear: "2000",
   contact: {
     address: "SCF 57, Level 2, Sector 8, Panchkula, Haryana",
+    branchAddress: "New Delhi",
     phone: "+91 9815763749",
     email: "gupta.puneetca@gmail.com",
     workingHours: "Mon - Sat: 9:30 AM - 6:30 PM IST"

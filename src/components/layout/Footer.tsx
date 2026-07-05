@@ -16,12 +16,12 @@ export interface FooterProps {
 
 export function Footer({
   id = "site-footer",
-  firmName = "S.G. & ASSOCIATES",
+  firmName = "Anil Puneet and Associates",
   frnNumber = "016890N",
-  principalName = "CA Puneet Gupta (FCA)",
-  membershipNo = "059435",
-  address = "Suite 401, Business Tower, MG Road, Panchkula, Haryana",
-  phone = "+91 79 2658 9000",
+  principalName = "CA Puneet Gupta",
+  membershipNo = "095435",
+  address = "SCF 57, Level 2, Sector 8, Panchkula, Haryana (Head Office) | New Delhi (Branch Office)",
+  phone = "+91 9815763749",
   email = "gupta.puneetca@gmail.com",
   className = "",
 }: FooterProps) {
@@ -45,7 +45,7 @@ export function Footer({
                   {firmName}
                 </div>
                 <div className="text-xs text-blue-400 font-medium">
-                  Chartered Accountants (Sole Proprietorship)
+                  Chartered Accountants (Partnership Firm)
                 </div>
               </div>
             </div>
@@ -59,7 +59,7 @@ export function Footer({
                 <span className="font-semibold text-slate-300">Firm Registration No (FRN):</span> {frnNumber}
               </div>
               <div>
-                <span className="font-semibold text-slate-300">Proprietor & Principal CA:</span> {principalName} (Mem No: {membershipNo})
+                <span className="font-semibold text-slate-300">Senior Partner & Managing CA:</span> {principalName} (Mem No: {membershipNo})
               </div>
             </div>
           </div>
@@ -176,7 +176,7 @@ export function Footer({
         {/* Bottom Bar: Copyright & Legal */}
         <div className="mt-8 pt-6 border-t border-slate-900 flex flex-col sm:flex-row items-center justify-between text-xs text-slate-500 gap-4">
           <div>
-            © {currentYear} {firmName}. All Rights Reserved. Sole Proprietorship Practice.
+            © {currentYear} {firmName}. All Rights Reserved. Partnership Firm.
           </div>
           <div className="flex items-center gap-6">
             <Link href="/privacy" className="hover:text-slate-400 transition-colors">

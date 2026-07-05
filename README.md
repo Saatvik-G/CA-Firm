@@ -1,22 +1,22 @@
 # Anil Puneet and Associates — Chartered Accountants Website
 
-A modern, production-grade Next.js App Router web application built for **Anil Puneet and Associates, Chartered Accountants** (Sole Proprietorship practice led by **CA Puneet Gupta**, B.Com, CA).
+A modern, production-grade Next.js App Router web application built for **Anil Puneet and Associates, Chartered Accountants** (Partnership Firm led by **CA Puneet Gupta**, B.Com, CA).
 
 ---
 
 ## 🏛️ Firm Profile & ICAI Compliance Information
 
 - **Firm Name:** Anil Puneet and Associates, Chartered Accountants
-- **Sole Proprietor / Principal:** CA Puneet Gupta
+- **Sole Senior Partner / Principal:** CA Puneet Gupta
 - **Qualifications:** B.Com, CA
-- **ICAI Membership No:** 059435
+- **ICAI Membership No:** 095435
 - **Firm Registration No (FRN):** 016890N
 - **Established Year:** 2000
 - **Head Office:** SCF 57, Level 2, Sector 8, Panchkula, Haryana
 - **Contact:** +91 9815763749 | gupta.puneetca@gmail.com
 
 > [!IMPORTANT]
-> **Proprietorship Compliance Notice**: In strict adherence to ICAI website guidelines and the Chartered Accountants Act, 1949, all references across the website use "Sole Proprietor / Principal" — never "Partner".
+> **Senior Partnership Compliance Notice**: In strict adherence to ICAI website guidelines and the Chartered Accountants Act, 1949, all references across the website use "Sole Senior Partner / Principal" — never "Partner".
 
 ---
 
@@ -34,8 +34,8 @@ A modern, production-grade Next.js App Router web application built for **Anil P
 
 ### Core Pages
 - `/` — **Home Page**: Hero, TrustIndicators, WhyChooseUs, PracticeAreas, IndustryExpertise, OurProcess, PrincipalProfile, KnowledgePreview, FAQSection, CTABanner.
-- `/about` — **About Firm**: Practice overview, sole proprietorship background, firm mission, history timeline (2000-Present), principal profile.
-- `/team` — **Team & Principal**: Featured Proprietor CA spotlight (Mem #059435) with supervised Article Assistants and staff grid.
+- `/about` — **About Firm**: Practice overview, Partnership Firm background, firm mission, history timeline (2000-Present), principal profile.
+- `/team` — **Team & Principal**: Featured Senior Partner CA spotlight (Mem #095435) with supervised Article Assistants and staff grid.
 - `/services` — **Services Directory**: Category filterable practice grid (Direct Tax, Audit & Assurance, GST, Corporate Law, Valuation).
 - `/services/[slug]` — **Dynamic Service Details**: Comprehensive service scope, step-by-step process, deliverables, and FAQs.
 - `/industries` — **Industries Directory**: Specialization across Startups, Manufacturing, Healthcare, Real Estate, Export-Import, and Retail.

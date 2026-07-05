@@ -28,7 +28,7 @@ const defaultFaqs: FAQItem[] = [
   {
     id: "faq-3",
     question: "How does the firm ensure ICAI Code of Ethics compliance during audit engagements?",
-    answer: "Our firm operates strictly as a sole proprietorship under FRN 105928W. We enforce complete independence of audit, zero conflict of interest, absolute client confidentiality under Section 126 of the Evidence Act guidelines, and mandatory UDIN authentication for all certified documents.",
+    answer: "Our firm operates strictly as a Partnership Firm under FRN 105928W. We enforce complete independence of audit, zero conflict of interest, absolute client confidentiality under Section 126 of the Evidence Act guidelines, and mandatory UDIN authentication for all certified documents.",
   },
   {
     id: "faq-4",

@@ -195,7 +195,7 @@ export function MobileNav({
                 Book Consultation
               </Button>
               <p className="text-[11px] text-center text-slate-500">
-                ICAI Regulated Sole Proprietorship Firm
+                ICAI Regulated Partnership Firm
               </p>
             </div>
           </motion.div>

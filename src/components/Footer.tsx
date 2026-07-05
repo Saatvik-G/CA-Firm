@@ -26,11 +26,11 @@ export default function Footer() {
             </div>
 
             <p className="text-sm text-slate-300 leading-relaxed pr-4">
-              A chartered accountancy sole proprietorship practice established in {siteConfig.establishedYear}, providing corporate tax compliance, statutory audit, GST advisory, and business valuation services in accordance with ICAI standards.
+              A chartered accountancy Partnership Firm established in {siteConfig.establishedYear}, providing corporate tax compliance, statutory audit, GST advisory, and business valuation services in accordance with ICAI standards.
             </p>
 
             <div className="text-xs text-slate-400 space-y-1 pt-2 border-t border-slate-800">
-              <p><strong className="text-slate-200">Sole Proprietor:</strong> {siteConfig.principal.name} ({siteConfig.principal.qualification})</p>
+              <p><strong className="text-slate-200">Sole Senior Partner:</strong> {siteConfig.principal.name} ({siteConfig.principal.qualification})</p>
               <p><strong className="text-slate-200">Membership No:</strong> {siteConfig.principal.membershipNo}</p>
               <p><strong className="text-slate-200">Firm Registration No (FRN):</strong> 016890N</p>
             </div>
@@ -128,7 +128,7 @@ export default function Footer() {
         {/* Bottom Bar */}
         <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-slate-400 gap-4">
           <div>
-            © {new Date().getFullYear()} {siteConfig.firmName}. All rights reserved. Sole Proprietorship Practice.
+            © {new Date().getFullYear()} {siteConfig.firmName}. All rights reserved. Partnership Firm.
           </div>
           <div className="flex flex-wrap gap-6">
             <Link href="/privacy-policy" className="hover:text-slate-300">Privacy Policy</Link>

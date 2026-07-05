@@ -122,7 +122,7 @@ export function getArticleSchema({
     author: {
       '@type': 'Person',
       name: authorName,
-      jobTitle: 'Proprietor & Principal CA',
+      jobTitle: 'Senior Partner & Managing CA',
     },
     publisher: {
       '@type': 'Organization',

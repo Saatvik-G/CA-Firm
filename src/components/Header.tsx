@@ -59,7 +59,7 @@ export default function Header() {
 
           <div className="flex items-center space-x-4">
             <span className="text-emerald-400 font-medium hidden lg:inline">
-              ICAI Compliant Proprietorship Firm
+              ICAI Compliant Senior Partnership Firm
             </span>
             <button
               onClick={toggleTheme}

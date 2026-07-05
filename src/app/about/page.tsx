@@ -5,7 +5,7 @@ import siteConfig from '@/lib/siteConfig';
 
 export const metadata: Metadata = constructMetadata({
   title: 'About Our Firm & Ethos | Anil Puneet and Associates',
-  description: 'Learn about Anil Puneet and Associates, a Chartered Accountant sole proprietorship practice established in 2012 by CA Puneet Gupta. Operating under ICAI guidelines and statutory ethical standards.',
+  description: 'Learn about Anil Puneet and Associates, a Chartered Accountant Partnership Firm established in 2000 by CA Puneet Gupta. Operating under ICAI guidelines and statutory ethical standards.',
   path: '/about',
 });
 
@@ -16,7 +16,7 @@ export default function AboutPage() {
     {
       year: '2012',
       title: 'Firm Establishment',
-      description: 'Anil Puneet and Associates was established as a Chartered Accountancy sole proprietorship in Panchkula, securing ICAI Registration No. 016890N.'
+      description: 'Anil Puneet and Associates was established as a Chartered Accountancy Partnership Firm in Panchkula, securing ICAI Registration No. 016890N.'
     },
     {
       year: '2015',
@@ -47,7 +47,7 @@ export default function AboutPage() {
         {/* Header Hero */}
         <div className="text-center max-w-3xl mx-auto space-y-4">
           <span className="inline-block px-3.5 py-1 rounded-full text-xs font-semibold bg-blue-100 text-blue-800 dark:bg-blue-950 dark:text-blue-300 uppercase tracking-wider">
-            Sole Proprietorship Practice
+            Partnership Firm
           </span>
           <h1 className="text-4xl font-extrabold text-slate-900 dark:text-white sm:text-5xl">
             About Anil Puneet and Associates
@@ -64,7 +64,7 @@ export default function AboutPage() {
               Professional Practice Overview
             </h2>
             <p className="text-slate-600 dark:text-slate-300 text-sm leading-relaxed">
-              Anil Puneet and Associates is a sole proprietorship Chartered Accountancy firm registered with The Institute of Chartered Accountants of India (ICAI Firm Registration No. 016890N). Headed by Principal CA Puneet Gupta (Membership No. 059435), the firm delivers statutory tax audit, corporate tax compliance, GST advisory, and business valuation services.
+              Anil Puneet and Associates is a Partnership Firm Chartered Accountancy firm registered with The Institute of Chartered Accountants of India (ICAI Firm Registration No. 016890N). Headed by Principal CA Puneet Gupta (Membership No. 095435), the firm delivers statutory tax audit, corporate tax compliance, GST advisory, and business valuation services.
             </p>
             <p className="text-slate-600 dark:text-slate-300 text-sm leading-relaxed">
               We maintain direct principal-led oversight over all audit files and tax computations. Unlike generalist accounting firms, our engagements are executed under standardized quality control frameworks in accordance with the Chartered Accountants Act, 1949 and relevant statutory rules.
@@ -72,7 +72,7 @@ export default function AboutPage() {
             
             <div className="pt-2 grid grid-cols-2 gap-4 text-xs font-semibold text-slate-700 dark:text-slate-300">
               <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700">
-                • Sole Proprietorship Practice
+                • Partnership Firm
               </div>
               <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700">
                 • ICAI FRN: 016890N
@@ -81,7 +81,7 @@ export default function AboutPage() {
                 • ICAI Qualified
               </div>
               <div className="p-3 bg-slate-50 dark:bg-slate-800 rounded-lg border border-slate-200 dark:border-slate-700">
-                • 14+ Years Practice Track Record
+                • 26+ Years Practice Track Record
               </div>
             </div>
           </div>

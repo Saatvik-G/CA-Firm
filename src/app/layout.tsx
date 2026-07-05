@@ -15,7 +15,7 @@ const inter = Inter({
 
 export const metadata: Metadata = constructMetadata({
   title: "Anil Puneet and Associates | Chartered Accountants Panchkula",
-  description: "Sole proprietorship Chartered Accountancy firm led by CA Puneet Gupta (FCA). Specializing in direct tax litigation, statutory audit, GST compliance, and corporate financial advisory.",
+  description: "Partnership Firm Chartered Accountancy firm led by CA Puneet Gupta (FCA). Specializing in direct tax litigation, statutory audit, GST compliance, and corporate financial advisory.",
 });
 
 export default function RootLayout({

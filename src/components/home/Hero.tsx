@@ -16,7 +16,7 @@ export default function Hero() {
             {/* ICAI Compliance Badge */}
             <div className="inline-flex items-center gap-2 px-3.5 py-1.5 rounded-full bg-blue-950/80 border border-blue-800/80 text-blue-300 text-xs font-semibold uppercase tracking-wider">
               <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-              Sole Proprietorship CA Practice • {siteConfig.registration}
+              Partnership Firm CA Practice • {siteConfig.registration}
             </div>
 
             {/* Main Headline */}
@@ -35,13 +35,13 @@ export default function Hero() {
                 <svg className="w-4 h-4 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
                 </svg>
-                14+ Years Practice Experience
+                26+ Years Practice Experience
               </div>
               <div className="flex items-center gap-2">
                 <svg className="w-4 h-4 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M5 13l4 4L19 7" />
                 </svg>
-                Direct Proprietor Oversight
+                Direct Senior Partner Oversight
               </div>
               <div className="flex items-center gap-2">
                 <svg className="w-4 h-4 text-emerald-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -79,14 +79,14 @@ export default function Hero() {
                   CA Puneet Gupta
                 </h2>
                 <p className="text-sm text-slate-300">
-                  Proprietor & Principal Chartered Accountant
+                  Senior Partner & Managing Chartered Accountant
                 </p>
               </div>
 
               <div className="space-y-3 text-sm">
                 <div className="flex justify-between py-1.5 border-b border-slate-700/50">
                   <span className="text-slate-400">ICAI Membership No:</span>
-                  <span className="font-semibold text-slate-200">059435</span>
+                  <span className="font-semibold text-slate-200">095435</span>
                 </div>
                 <div className="flex justify-between py-1.5 border-b border-slate-700/50">
                   <span className="text-slate-400">Qualifications:</span>
@@ -110,7 +110,7 @@ export default function Hero() {
                 href="/about"
                 className="block text-center text-xs font-semibold text-blue-400 hover:text-blue-300 transition-colors uppercase tracking-wider"
               >
-                Read Proprietor Profile & History →
+                Read Senior Partner Profile & History →
               </Link>
             </div>
           </div>

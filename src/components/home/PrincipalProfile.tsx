@@ -19,7 +19,7 @@ export default function PrincipalProfile() {
 
               <div>
                 <span className="text-xs uppercase tracking-wider font-bold text-blue-400">
-                  Proprietor & Practice Lead
+                  Senior Partner & Practice Lead
                 </span>
                 <h2 className="text-3xl font-black text-white mt-1">
                   {p.name}

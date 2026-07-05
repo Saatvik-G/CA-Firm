@@ -42,7 +42,7 @@ export function WhyChooseUs({
             id="why-principal"
             title="Direct Principal Counsel"
             description="Unlike large impersonal firms, your file is personally supervised and reviewed by our Senior Principal CA with over 25 years of standing."
-            badge="Sole Proprietor Leadership"
+            badge="Sole Senior Partner Leadership"
             colSpan="third"
             icon={<UserIcon size={24} />}
           />

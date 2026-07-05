@@ -66,7 +66,7 @@ export function BlogPostTemplate({
                 <span className="font-semibold text-slate-900 dark:text-white block">
                   {post.author}
                 </span>
-                <span className="text-[11px] text-slate-500">Sole Proprietor & Principal CA</span>
+                <span className="text-[11px] text-slate-500">Sole Senior Partner & Managing CA</span>
               </div>
             </div>
 
@@ -169,7 +169,7 @@ export function BlogPostTemplate({
                   {post.author}
                 </h4>
                 <p className="text-xs text-slate-500 dark:text-slate-400 leading-relaxed">
-                  Chartered Accountant with 25+ years in corporate tax litigation, GST advisory, and statutory auditing.
+                  Chartered Accountant with 26+ years in corporate tax litigation, GST advisory, and statutory auditing.
                 </p>
                 <a
                   href="/about"

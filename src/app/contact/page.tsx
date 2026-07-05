@@ -186,8 +186,13 @@ export default function ContactPage() {
 
               <div className="space-y-4 text-xs text-slate-300">
                 <div>
-                  <strong className="text-white block uppercase tracking-wider text-[11px] mb-1">Office Address:</strong>
+                  <strong className="text-white block uppercase tracking-wider text-[11px] mb-1">Head Office (Panchkula):</strong>
                   <p className="leading-relaxed">{siteConfig.contact.address}</p>
+                </div>
+
+                <div>
+                  <strong className="text-white block uppercase tracking-wider text-[11px] mb-1">Branch Office (New Delhi):</strong>
+                  <p className="leading-relaxed">New Delhi, India</p>
                 </div>
 
                 <div>
@@ -206,20 +211,20 @@ export default function ContactPage() {
                 </div>
 
                 <div>
-                  <strong className="text-white block uppercase tracking-wider text-[11px] mb-1">Sole Proprietor:</strong>
-                  <p>CA Puneet Gupta (FCA) • ICAI Mem #059435</p>
+                  <strong className="text-white block uppercase tracking-wider text-[11px] mb-1">Senior Partner & Founder:</strong>
+                  <p>CA Puneet Gupta (B.Com, CA) • ICAI Mem #095435 • FRN 016890N</p>
                 </div>
               </div>
 
               {/* Interactive Map Placeholder */}
               <div className="pt-4 border-t border-slate-800">
                 <span className="text-[11px] uppercase tracking-wider font-bold text-blue-400 block mb-2">
-                  Interactive Map Location
+                  Practice Office Locations
                 </span>
-                <div className="w-full h-48 rounded-xl bg-slate-800 border border-slate-700 flex flex-col items-center justify-center p-4 text-center space-y-2">
+                <div className="w-full rounded-xl bg-slate-800 border border-slate-700 flex flex-col items-center justify-center p-5 text-center space-y-2">
                   <div className="text-2xl">📍</div>
-                  <div className="text-xs font-bold text-white">SCF 57, Level 2, Sector 8</div>
-                  <div className="text-[11px] text-slate-400">Panchkula, Haryana 134109</div>
+                  <div className="text-xs font-bold text-white">Head Office: SCF 57, Level 2, Sector 8, Panchkula, Haryana</div>
+                  <div className="text-[11px] text-blue-400 font-semibold">Branch Office: New Delhi</div>
                 </div>
               </div>
             </div>

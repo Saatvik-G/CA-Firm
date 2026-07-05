@@ -40,7 +40,7 @@ export default function DisclaimerPage() {
           </ul>
 
           <div className="pt-4 border-t border-slate-100 dark:border-slate-800 text-xs text-slate-500">
-            Proprietor: CA Puneet Gupta (FCA) • ICAI Mem #059435 • FRN 016890N
+            Senior Partner: CA Puneet Gupta (FCA) • ICAI Mem #095435 • FRN 016890N
           </div>
         </div>
 

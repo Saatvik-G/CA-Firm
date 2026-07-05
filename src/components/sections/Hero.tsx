@@ -145,7 +145,7 @@ export function Hero({
                       ICAI Membership & FRN
                     </div>
                     <div className="text-xs text-slate-500 dark:text-slate-400">
-                      FRN: 016890N | Mem No: 059435
+                      FRN: 016890N | Mem No: 095435
                     </div>
                   </div>
                 </div>
@@ -187,11 +187,11 @@ export function Hero({
                 </div>
               </div>
 
-              {/* Sole Proprietor Badge */}
+              {/* Sole Senior Partner Badge */}
               <div className="p-4 rounded-xl bg-gradient-to-r from-blue-900 to-slate-900 text-white flex items-center justify-between">
                 <div>
                   <div className="text-xs font-semibold text-blue-300">
-                    Principal & Proprietor
+                    Principal & Senior Partner
                   </div>
                   <div className="text-sm font-bold mt-0.5">
                     CA Puneet Gupta, FCA

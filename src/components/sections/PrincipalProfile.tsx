@@ -14,9 +14,9 @@ export interface PrincipalProfileProps {
 const defaultPrincipalInfo: PrincipalInfo = {
   id: "principal-sg",
   name: "CA Puneet Gupta",
-  title: "Sole Proprietor & Principal Chartered Accountant",
+  title: "Sole Senior Partner & Managing Chartered Accountant",
   membershipInfo: {
-    icaiMembershipNo: "059435",
+    icaiMembershipNo: "095435",
     firmRegistrationNo: "016890N",
     fellowOrAssociate: "CA",
     copStatus: "Active Certificate of Practice (COP)",
@@ -125,7 +125,7 @@ export function PrincipalProfile({
               <div>
                 <span className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-blue-50 dark:bg-blue-950/60 border border-blue-200 dark:border-blue-800 text-blue-700 dark:text-blue-300 text-xs font-semibold mb-3">
                   <AwardIcon size={14} />
-                  <span>Sole Proprietorship Leadership</span>
+                  <span>Partnership Firm Leadership</span>
                 </span>
                 <h2 className="text-3xl font-extrabold text-slate-900 dark:text-white tracking-tight">
                   About the Principal

@@ -26,7 +26,7 @@ export default function TermsPage() {
         <div className="bg-white dark:bg-slate-900 rounded-3xl p-8 sm:p-12 border border-slate-200 dark:border-slate-800 shadow-sm space-y-6 text-sm text-slate-700 dark:text-slate-300 leading-relaxed">
           <h2 className="text-xl font-bold text-slate-900 dark:text-white">1. Informational Purpose</h2>
           <p>
-            This website is maintained by Anil Puneet and Associates (Sole Proprietorship practice led by CA Puneet Gupta, Membership No. 059435, FRN 016890N) strictly in compliance with ICAI website guidelines. Content provided herein is for general educational and informational purposes only.
+            This website is maintained by Anil Puneet and Associates (Partnership Firm led by CA Puneet Gupta, Membership No. 095435, FRN 016890N) strictly in compliance with ICAI website guidelines. Content provided herein is for general educational and informational purposes only.
           </p>
 
           <h2 className="text-xl font-bold text-slate-900 dark:text-white">2. No Solicitation or Advertisement</h2>

@@ -107,7 +107,7 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
               </div>
               <div>
                 <div className="text-sm font-bold text-slate-900 dark:text-white">{post.author}</div>
-                <div className="text-xs text-slate-500 dark:text-slate-400">Proprietor & Principal CA (FCA)</div>
+                <div className="text-xs text-slate-500 dark:text-slate-400">Senior Partner & Managing CA (FCA)</div>
               </div>
             </div>
           </div>
