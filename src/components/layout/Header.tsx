@@ -109,7 +109,7 @@ export function Header({
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-18 flex items-center justify-between">
           {/* Logo Brand */}
           <Link id={`${id}-logo`} href="/" className="flex items-center gap-3 group">
-            <CALogo height={48} className="transition-transform group-hover:scale-105" />
+            <CALogo height={54} className="transition-transform group-hover:scale-105" />
             <div>
               <div className="font-extrabold tracking-tight text-slate-900 dark:text-white text-base md:text-lg group-hover:text-blue-600 dark:group-hover:text-blue-400 transition-colors">
                 {firmName}

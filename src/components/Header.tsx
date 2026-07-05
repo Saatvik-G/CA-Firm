@@ -87,7 +87,7 @@ export default function Header() {
           
           {/* Logo & Branding */}
           <Link href="/" className="flex items-center gap-3 group">
-            <CALogo height={48} className="transition-transform group-hover:scale-105" />
+            <CALogo height={54} className="transition-transform group-hover:scale-105" />
             <div>
               <div className="font-bold text-lg text-slate-900 dark:text-white leading-tight group-hover:text-blue-700 dark:group-hover:text-blue-400 transition-colors">
                 {siteConfig.firmName}
