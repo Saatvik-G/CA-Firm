@@ -15,51 +15,48 @@ export interface CALogoProps extends React.SVGProps<SVGSVGElement> {
 
 export function CALogo({
   size,
-  height = 42,
+  height = 44,
   className = "",
   color,
   saffronColor = "#F37321",
   greenColor = "#52B743",
   isDark = false,
-  showIndiaText = false,
+  showIndiaText = true,
   ...props
 }: CALogoProps) {
   const actualHeight = size || height;
-  // Width ratio: 1.35 if no text, 1.35 if text included
-  const actualWidth = typeof actualHeight === "number" ? Math.round(actualHeight * (showIndiaText ? 1.35 : 1.35)) : actualHeight;
   const strokeColor = color || (isDark ? "#FFFFFF" : "#145582");
 
   return (
     <svg
       height={actualHeight}
-      width={actualWidth}
-      viewBox={showIndiaText ? "0 0 170 140" : "0 0 170 115"}
+      viewBox={showIndiaText ? "0 0 210 145" : "0 0 210 115"}
       fill="none"
       xmlns="http://www.w3.org/2000/svg"
-      className={`inline-block shrink-0 ${className}`}
+      className={`w-auto shrink-0 ${className}`}
       {...props}
     >
       {/* ICAI New CA Emblem Body (Blue / White) */}
       <g fill={strokeColor}>
-        {/* Sweeping C */}
-        <path d="M 72 16 C 48 16, 22 30, 18 58 C 14 86, 38 100, 66 100 C 84 100, 96 90, 103 78 L 91 71 C 86 81, 77 89, 65 89 C 47 89, 32 77, 35 58 C 38 37, 56 27, 71 27 C 79 27, 87 30, 92 35 L 101 25 C 93 18, 83 16, 72 16 Z" />
+        {/* Sweeping C Loop */}
+        <path d="M 82 14 C 55 14, 25 30, 20 60 C 15 90, 42 104, 74 104 C 95 104, 108 94, 116 80 L 103 72 C 97 83, 87 91, 73 91 C 53 91, 35 78, 38 60 C 41 38, 60 27, 78 27 C 88 27, 97 30, 103 36 L 112 25 C 103 18, 93 14, 82 14 Z" />
         
-        {/* Letter A Main Structure */}
-        <path d="M 96 12 L 67 100 L 79 100 L 98 40 L 117 100 L 129 100 L 102 12 Z" />
+        {/* Letter A Apex and Legs */}
+        <path d="M 108 10 L 76 104 L 89 104 L 110 40 L 131 104 L 144 104 L 114 10 Z" />
         
-        {/* Accent Parallel Line on Right Leg of A */}
-        <path d="M 106 30 L 124 100 L 129 100 L 110 30 Z" />
+        {/* Accent Parallel Stroke on Right Leg of A */}
+        <path d="M 119 30 L 139 104 L 144 104 L 123 30 Z" />
 
-        {/* Optional INDIA Text below */}
+        {/* INDIA Text below */}
         {showIndiaText && (
           <text
-            x="76"
-            y="132"
+            x="85"
+            y="136"
             textAnchor="middle"
             fill={strokeColor}
-            fontSize="22"
-            fontWeight="800"
-            letterSpacing="5"
+            fontSize="24"
+            fontWeight="900"
+            letterSpacing="6"
             fontFamily="system-ui, -apple-system, sans-serif"
           >
             INDIA
@@ -67,16 +64,16 @@ export function CALogo({
         )}
       </g>
 
-      {/* New ICAI Tricolor Wings */}
-      {/* Top Wing - Saffron / Orange */}
+      {/* Tricolor Wings */}
+      {/* Top Saffron Wing */}
       <path
-        d="M 79 46 L 138 27 L 116 57 L 91 50 Z"
+        d="M 88 47 L 160 26 L 134 60 L 104 52 Z"
         fill={saffronColor}
       />
 
-      {/* Bottom Wing - Green */}
+      {/* Bottom Green Wing */}
       <path
-        d="M 93 54 L 148 29 L 124 66 L 104 59 Z"
+        d="M 106 56 L 172 29 L 144 70 L 118 62 Z"
         fill={greenColor}
       />
     </svg>
@@ -94,13 +91,13 @@ export function CALogoBadge({
   size = "md",
   className = "",
   isDark = false,
-  showIndiaText = false,
+  showIndiaText = true,
 }: CALogoBadgeProps) {
   const heights = {
-    sm: 32,
-    md: 42,
-    lg: 52,
-    xl: 72,
+    sm: 34,
+    md: 46,
+    lg: 56,
+    xl: 78,
   };
 
   return (
